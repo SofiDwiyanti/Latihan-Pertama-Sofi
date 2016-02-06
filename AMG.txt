@@ -1,0 +1,565 @@
+AMG, Terminal Arjosari, -7.9341018,112.6576395
+AMG, Jalan Raden Intan No.99, -7.934434, 112.659131
+AMG, Jalan Raden Intan No.99, -7.934099, 112.659152
+AMG, Jalan Raden Intan No.99, -7.933653, 112.659168
+AMG, Jalan Raden Intan No.99, -7.933244, 112.659206
+AMG, Jalan Raden Intan No.99, -7.933079, 112.658916
+AMG, Jalan Raden Intan, -7.933063, 112.658514
+AMG, Parkir Sepeda Motor, Jalan Raden Intan, -7.933084, 112.658283
+AMG, Jalan Raden Intan No.99, -7.933090, 112.658063
+AMG, Jalan Raden Intan No.99, -7.932978, 112.657436
+AMG, Jalan Raden Intan, -7.932909, 112.657103
+AMG, Jalan Raden Intan, -7.932840, 112.656942
+AMG, Jalan Raden Intan, -7.932734, 112.656599
+AMG, Jalan Raden Intan, -7.932558, 112.656164
+AMG, Jalan Raden Intan, -7.932394, 112.655751
+AMG, Jalan Raden Intan, -7.932266, 112.655435
+AMG, Jalan Raden Intan, -7.932128, 112.655129
+AMG, Jalan Raden Intan, -7.931985, 112.654780
+AMG, Jalan Raden Intan, -7.931825, 112.654448
+AMG, Jalan Raden Intan, -7.931666, 112.654104
+AMG, Jalan Raden Intan, -7.931544, 112.653820
+AMG, Jalan Raden Intan, -7.931522, 112.653718
+AMG, Jalan Raden Intan, -7.931358, 112.653359
+AMG, Jalan Raden Intan, -7.931150, 112.652930
+AMG, Jalan Raden Intan No.103, -7.930970, 112.652452
+AMG, Jalan Raden Intan No.103, -7.930810, 112.652077
+AMG, Jalan Raden Intan No.103, -7.930662, 112.651701
+AMG, Jalan Raden Intan No.103, -7.930605, 112.651524
+AMG, Jalan Raden Intan No.103, -7.930482, 112.651229
+AMG, Jalan Raden Intan No.103, -7.930371, 112.650950
+AMG, Jalan Panjisuroso, -7.930270, 112.650703
+AMG, Jalan Panjisuroso, -7.930504, 112.650585
+AMG, Jalan Panjisuroso, -7.930849, 112.650451
+AMG, Jalan Panjisuroso, -7.931125, 112.650339
+AMG, Jalan Panjisuroso No.15, -7.931471, 112.650172
+AMG, Jalan Panjisuroso No.15, -7.931279, 112.650285
+AMG, Jalan Panjisuroso No.15, -7.931561, 112.650140
+AMG, Jalan Panjisuroso No.15, -7.931975, 112.649995
+AMG, Jalan Panjisuroso No.15, -7.932358, 112.649861
+AMG, Jalan Panjisuroso No.15, -7.932708, 112.649781
+AMG, Jalan Panjisuroso No.15, -7.932931, 112.649754
+AMG, Jalan Panjisuroso No.7-20, -7.933383, 112.649695
+AMG, Jalan Panjisuroso No.20, -7.933877, 112.649674
+AMG, Jalan Panjisuroso No.89, -7.934206, 112.649647
+AMG, Jalan Panjisuroso No.89, -7.935030, 112.649674
+AMG, Jalan Panjisuroso No.89, -7.935375, 112.649674
+AMG, Jalan Panjisuroso No.16, -7.935715, 112.649679
+AMG, Jalan Panjisuroso No.20, -7.936156, 112.649706
+AMG, Jalan Panjisuroso No.20a, -7.936326, 112.649690
+AMG, Jalan Panjisuroso No.20a, -7.936581, 112.649717
+AMG, KPP Madya Malang, Jalan Panjisuroso, -7.936953, 112.649722
+AMG, Jalan Panjisuroso No.97, -7.937224, 112.649711
+AMG, Jalan Panjisuroso No.93, -7.937500, 112.649722
+AMG, Jalan Panjisuroso No.125, -7.937872, 112.649727
+AMG, Jalan Panjisuroso No.85, -7.938287, 112.649754
+AMG, Jalan Panjisuroso No.18-85, -7.938675, 112.649760
+AMG, Jalan Panjisuroso No.77A, -7.939020, 112.649727
+AMG, Jalan Panjisuroso No.77A, -7.939360, 112.649684
+AMG, Jalan Panjisuroso No.72, -7.939652, 112.649625
+AMG, Jalan Panjisuroso, -7.940036, 112.649555
+AMG, Jalan Panjisuroso, -7.940567, 112.649410
+AMG, Jalan Panjisuroso No.78, -7.940992, 112.649297
+AMG, Jalan Panjisuroso No.A3, -7.941311, 112.649217
+AMG, Jalan Panjisuroso No.A3, -7.941741, 112.649104
+AMG, Atm Bni, Jalan Panjisuroso, -7.941985, 112.648986
+AMG, Cv. Cahaya Gemilang Abadi, Jalan Panjisuroso, -7.942241, 112.648852
+AMG, Jalan Panjisuroso No.3A, -7.942596, 112.648691
+AMG, Mapilus Prima Utama, Jalan Panjisuroso, -7.942963, 112.648546
+AMG, Jalan Panjisuroso No.3, -7.943340, 112.648391
+AMG, Jalan Panjisuroso No.3, -7.943617, 112.648251
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.943979, 112.648101
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.944218, 112.647988
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.944600, 112.647838
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.944791, 112.647752
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.945089, 112.647634
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.945626, 112.647425
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.28, -7.946178, 112.647242
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.27, -7.946678, 112.647141
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.24-40, -7.946975, 112.647098
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.29-33, -7.947411, 112.647017
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.31, -7.947788, 112.646980
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.41, -7.948091, 112.646942
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.41, -7.948415, 112.646888
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.5, -7.948898, 112.646856
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.5N, -7.949419, 112.646781
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.46, -7.949913, 112.646738
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.46, -7.950328, 112.646663
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.32, -7.950753, 112.646577
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.30, -7.951156, 112.646481
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.57, -7.951634, 112.646352
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.57, -7.952075, 112.646186
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.17a, -7.952442, 112.646078
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.17a, -7.952644, 112.646009
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.45, -7.953048, 112.645842
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.45, -7.953048, 112.645842
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20, -7.953983, 112.645419
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.5, -7.954365, 112.645242
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.7, -7.954753, 112.645070
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.955162, 112.644898
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.955640, 112.644684
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.955826, 112.644635
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.955934, 112.644592
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.956237, 112.644458
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.956571, 112.644308
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8, -7.956816, 112.644179
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.143, -7.957081, 112.644067
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.143, -7.957453, 112.643895
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.143, -7.957878, 112.643718
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.114, -7.958234, 112.643579
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.133, -7.958782, 112.643267
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.131, -7.959106, 112.643053
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.131, -7.959456, 112.642854
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.94, -7.959600, 112.642795
+AMG, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.88, -7.960003, 112.642559
+AMG, Jalan Raden Tumenggung Suryo No.27, -7.960338, 112.642372
+AMG, Keripik Tempe DJ, 7.9608986,112.6431226
+AMG, Jalan Raden Tumenggung Suryo No.50, -7.961597, 112.641696
+AMG, Jalan Raden Tumenggung Suryo No.50, -7.961969, 112.641427
+AMG, Jalan Raden Tumenggung Suryo No.50, -7.962150, 112.641304
+AMG, Jalan Raden Tumenggung Suryo No.50, -7.962569, 112.641100
+AMG, Jalan Raden Tumenggung Suryo No.50, -7.962957, 112.640843
+AMG, Jalan Raden Tumenggung Suryo No.50, -7.963297, 112.640628
+AMG, Jalan Raden Tumenggung Suryo No.26, -7.963563, 112.640515
+AMG, Jalan Raden Tumenggung Suryo No.26, -7.963940, 112.640258
+AMG, Jalan Raden Tumenggung Suryo No.26, -7.964392, 112.639995
+AMG, Jalan Raden Tumenggung Suryo No.26, -7.964838, 112.639722
+AMG, Jalan Raden Tumenggung Suryo No.26, -7.965422, 112.639416
+AMG, Jalan Raden Tumenggung Suryo No.5, -7.965821, 112.639207
+AMG, Jalan Raden Tumenggung Suryo No.14, -7.966182, 112.639008
+AMG, Jalan Raden Tumenggung Suryo No.14, -7.966458, 112.638869
+AMG, Jalan Raden Tumenggung Suryo No.4, -7.966820, 112.638718
+AMG, Jalan Raden Tumenggung Suryo No.4, -7.966995, 112.638697
+AMG, Jalan Hamid Rusdi No.19, -7.967128, 112.638858
+AMG, Jalan Hamid Rusdi No.19, -7.967271, 112.639089
+AMG, Jalan Hamid Rusdi No.19, -7.967409, 112.639341
+AMG, Jalan Hamid Rusdi No.19, -7.967547, 112.639604
+AMG, Jalan Hamid Rusdi No.17, -7.967648, 112.639840
+AMG, Jalan Hamid Rusdi No.23, -7.967712, 112.640118
+AMG, Jalan Hamid Rusdi No.6, -7.967808, 112.640440
+AMG, Jalan Hamid Rusdi No.27, -7.967872, 112.640789
+AMG, Jalan Hamid Rusdi No.37 A, -7.967957, 112.641181
+AMG, Jalan Hamid Rusdi No.47, -7.968057, 112.641465
+AMG, Jalan Hamid Rusdi No.49, -7.968180, 112.641733
+AMG, JNE Sortir Center, Jalan Hamid Rusdi,-7.968562, 112.642125
+AMG, Jalan Hamid Rusdi No.79, -7.968865, 112.642339
+AMG, Jalan Hamid Rusdi No.91, -7.969173, 112.642500
+AMG, Jalan Hamid Rusdi No.93, -7.969503, 112.642688
+AMG, Jalan Hamid Rusdi No.2-107, -7.970071, 112.642913
+AMG, Jalan Hamid Rusdi No.107, -7.970384, 112.643058
+AMG, Jalan Hamid Rusdi No.12, -7.970650, 112.643203
+AMG, Jalan Hamid Rusdi No.127a, -7.970884, 112.643477
+AMG, Pak Ahmad Nasi Goreng Pak Min, 7.9717365,112.6429938
+AMG, Jalan Hamid Rusdi No.101G, -7.971266, 112.643847
+AMG, Jalan Hamid Rusdi No.101G, -7.971410, 112.644018
+AMG, BNI ATM, Jalan Hamid Rusdi, -7.971622, 112.644271
+AMG, Jalan Hamid Rusdi No.101G, -7.971824, 112.644474
+AMG, Jalan Hamid Rusdi No.4, -7.971994, 112.644651
+AMG, Jalan Hamid Rusdi No.4, -7.972223, 112.644995
+AMG, Jalan Hamid Rusdi No.4-9, -7.972489, 112.645322
+AMG, Jalan Hamid Rusdi No.4-9, -7.972659, 112.645558
+AMG, Jalan Hamid Rusdi No.9, -7.972829, 112.645875
+AMG, Jalan Hamid Rusdi No.9, -7.973041, 112.646164
+AMG, Jalan Hamid Rusdi Timur No.317, -7.973163, 112.646363
+AMG, Jalan Hamid Rusdi Timur No.317, -7.973169, 112.646411
+AMG, Jalan Terusan Kesatrian, -7.973286, 112.646384
+AMG, Jalan Terusan Kesatrian, -7.973578, 112.646148
+AMG, Jalan Terusan Kesatrian, -7.973923, 112.645885
+AMG, Jalan Terusan Kesatrian, -7.974258, 112.645537
+AMG, Jalan Terusan Kesatrian, -7.974656, 112.645177
+AMG, Jalan Terusan Kesatrian, -7.974980, 112.644904
+AMG, Jalan Terusan Kesatrian, -7.975347, 112.644544
+AMG, Jalan Terusan Kesatrian, -7.975814, 112.644292
+AMG, Jalan Terusan Kesatrian, -7.976340, 112.644035
+AMG, Jalan Terusan Kesatrian, -7.976786, 112.643842
+AMG, Jalan Terusan Kesatrian, -7.976786, 112.643842
+AMG, Jalan Terusan Kesatrian, -7.977148, 112.643654
+AMG, Jalan Terusan Kesatrian, -7.977328, 112.643568
+AMG, Jalan Urip Sumoharjo No.49, -7.977413, 112.643482
+AMG, Jalan Urip Sumoharjo No.13, -7.977271, 112.643329
+AMG, Jalan Urip Sumoharjo No.40-49, -7.977075, 112.643072
+AMG, Jalan Urip Sumoharjo No.40-49, -7.976777, 112.642729
+AMG, Jalan Urip Sumoharjo No.40, -7.976437, 112.642342
+AMG, Jalan Urip Sumoharjo No.38, -7.976049, 112.641849
+AMG, Jalan Urip Sumoharjo No.38, -7.975773, 112.641548
+AMG, Jalan Urip Sumoharjo No.30, -7.975460, 112.641194
+AMG, Jalan Urip Sumoharjo No.27-30, -7.975183, 112.640846
+AMG, Jalan Urip Sumoharjo No.24, -7.974928, 112.640492
+AMG, Jalan Urip Sumoharjo No.24, -7.974679, 112.640154
+AMG, Jalan Urip Sumoharjo No.24, -7.974408, 112.639757
+AMG, Jalan Urip Sumoharjo No.69, -7.974142, 112.639429
+AMG, Jalan Urip Sumoharjo No.69, -7.973882, 112.638995
+AMG, Jalan Urip Sumoharjo No.69, -7.973606, 112.638619
+AMG, Jalan Panglima Sudirman No.71a, -7.973595, 112.638550
+AMG, Jalan Panglima Sudirman No.71a, -7.973861, 112.638550
+AMG, Jalan Panglima Sudirman No.71a, -7.974381, 112.638566
+AMG, Jalan Panglima Sudirman No.71a, -7.974551, 112.638555
+AMG, Jalan Panglima Sudirman No.23, -7.974966, 112.638577
+AMG, Jalan Panglima Sudirman No.30, -7.975460, 112.638577
+AMG, Jalan Panglima Sudirman No.30, -7.976049, 112.638582
+AMG, Jalan Panglima Sudirman No.30, -7.976161, 112.638587
+AMG, Jalan Panglima Sudirman No.30, -7.976586, 112.638582
+AMG, Jalan Panglima Sudirman No.30,-7.977011, 112.638603
+AMG, Jalan Panglima Sudirman No.30, -7.977558, 112.638593
+AMG, Jalan Panglima Sudirman No.30, -7.978095, 112.638555
+AMG, Jalan Panglima Sudirman No.30, -7.978302, 112.638534
+AMG, Jalan Panglima Sudirman No.30, -7.978648, 112.638489
+AMG, Jalan Panglima Sudirman, -7.979195, 112.638312
+AMG, Jalan Panglima Sudirman, -7.979705, 112.638216
+AMG, Jalan Panglima Sudirman, -7.980082, 112.638157
+AMG, Jalan Panglima Sudirman, -7.980477, 112.638020
+AMG, Jalan Gatot Subroto, -7.981029, 112.637886
+AMG, Jalan Gatot Subroto, -7.981444, 112.637741
+AMG, Jalan Gatot Subroto No.2, -7.981890, 112.637543
+AMG, Jalan Gatot Subroto No.2, -7.982513, 112.637266
+AMG, Jalan Gatot Subroto No.2, -7.982885, 112.637127
+AMG, Jalan Gatot Subroto No.2, -7.983071, 112.637073
+AMG, Jalan Ir. Haji Juanda No.1A, -7.983108, 112.637121
+AMG, Jalan Ir. Haji Juanda No.1A, -7.983271, 112.637236
+AMG, Jalan Ir. Haji Juanda No.1A, -7.983558, 112.637467
+AMG, Jalan Ir. Haji Juanda No.1-6, -7.983845, 112.637713
+AMG, Jalan Ir. Haji Juanda No.6-16, -7.984089, 112.637998
+AMG, Jalan Ir. Haji Juanda No.6-16, -7.984493, 112.638416
+AMG, Jalan Ir. Haji Juanda No.22, -7.984785, 112.638781
+AMG, Jalan Ir. Haji Juanda No.23, -7.985051, 112.639130
+AMG, Jalan Ir. Haji Juanda No.25, -7.985311, 112.639441
+AMG, Jalan Ir. Haji Juanda No.32, -7.985603, 112.639720
+AMG, Jalan Ir. Haji Juanda No.32, -7.985991, 112.639698
+AMG, Jalan Ir. Haji Juanda No.32, -7.986177, 112.639650
+AMG, Jalan Ir. Haji Juanda No.6 A, -7.986671, 112.639473
+AMG, Jalan Ir. Haji Juanda No.6 A, -7.987914, 112.639119
+AMG, Jalan Ir. Haji Juanda No.6 A, -7.988398, 112.639012
+AMG, Jalan Ir. Haji Juanda No.6 A, -7.988791, 112.638867
+AMG, Jalan Kebalen Wetan No.1, -7.988902, 112.638797
+AMG, Jalan Kebalen Wetan No.1, -7.989168, 112.638663
+AMG, Jalan Kebalen Wetan No.54A, -7.989678, 112.638395
+AMG, Jalan Kebalen Wetan No.54A, -7.990055, 112.638234
+AMG, Jalan Kebalen Wetan No.53 A, -7.990496, 112.638014
+AMG, Jalan Kebalen Wetan No.53 A, -7.990847, 112.637756
+AMG, Jalan Kebalen Wetan No.53 A, -7.991144, 112.637515
+AMG, Jalan Kebalen Wetan No.53 A, -7.991165, 112.637499
+AMG, Jalan Kebalen Wetan No.329, -7.991553, 112.637188
+AMG, Jalan Kebalen Wetan No.329, -7.991760, 112.637096
+AMG, Jalan Kebalen Wetan No.329, -7.992138, 112.636984
+AMG, Jalan Kebalen Wetan No.329, -7.992541, 112.636855
+AMG, Jalan Kebalen Wetan No.67, -7.992940, 112.636732
+AMG, Jalan Kebalen Wetan No.53, -7.993413, 112.636555
+AMG, Jalan Kebalen Wetan No.5A, -7.993816, 112.636362
+AMG, Jalan Kebalen Wetan No.5A, -7.994082, 112.636045
+AMG, Jalan Kebalen Wetan No.5A, -7.994252, 112.635659
+AMG, Jalan Kebalen Wetan No.5A, -7.994374, 112.635305
+AMG, Jalan Kebalen Wetan No.5A, -7.994363, 112.634902
+AMG, BM Cell, -7.994227,112.6335948
+AMG, Jalan Kebalen Wetan No.5A, -7.994214, 112.634367
+AMG, Jalan Kebalen Wetan No.5A, -7.994017, 112.633911
+AMG, Jalan Kebalen Wetan No.5A, -7.993884, 112.633589
+AMG, Jalan Kolonel Sugiono No.9, -7.993858, 112.633536
+AMG, Jalan Kolonel Sugiono No.9, -7.993862, 112.633489
+AMG, Jalan Kolonel Sugiono No.9, -7.994574, 112.633312
+AMG, Jalan Kolonel Sugiono No.37, -7.995180, 112.633167
+AMG, Jalan Kolonel Sugiono No.43, -7.995700, 112.633043
+AMG, Jalan Kolonel Sugiono No.51. -7.996195, 112.632909
+AMG, Jalan Kolonel Sugiono No.81, -7.996779, 112.632754
+AMG, Jalan Kolonel Sugiono No.81, -7.997199, 112.632662
+AMG, Jalan Kolonel Sugiono No.82, -7.997448, 112.632609
+AMG, Jalan Kolonel Sugiono No.91, -7.997884, 112.632496
+AMG, Pt. Ilham Berkah Jaya, -7.998739, 112.632233
+AMG, Jalan Kolonel Sugiono No.44, -7.999611, 112.631922
+AMG, Jalan Kolonel Sugiono No.146, -8.000333, 112.631632
+AMG, Jalan Kolonel Sugiono No.193, -8.001130, 112.631332
+AMG, Jalan Kolonel Sugiono No.195, -8.001640, 112.631128
+AMG, Jalan Kolonel Sugiono No.90, -8.002628, 112.630795
+AMG, Jalan Raya Gadang No.164, -8.003361, 112.630559
+AMG, Jalan Kolonel Sugiono No.229, -8.004126, 112.630312
+AMG, Jalan Kolonel Sugiono Gang X A No.23, -8.005188, 112.630130
+AMG, Jalan Raya Gadang No.277, -8.006591, 112.629905
+AMG, Jalan Kolonel Sugiono No.2, -8.007706, 112.629712
+AMG, Jalan Raya Gadang No.321, -8.008407, 112.629658
+AMG, Jalan Kolonel Sugiono No.206, -8.009491, 112.629529
+AMG, An - Nur Donuts & Bakery, Jalan Gadang No.367, -8.010649, 112.629368
+AMG, Cuci Sepeda Motor, Jalan Raya Gadang, -8.011956, 112.629122
+AMG, Jalan Raya Gadang No.421, -8.012923, 112.628950
+AMG, Jalan Raya Gadang No.433, -8.013411, 112.628853
+AMG, Jalan Raya Gadang No.234, -8.014102, 112.628735
+AMG, Jalan Raya Gadang No.234, -8.015079, 112.628585
+AMG, Jalan Raya Gadang No.467, -8.015717, 112.628532
+AMG, Jalan Raya Gadang No.21 A, -8.016492, 112.628478
+AMG, Jalan Kolonel Sugiono No.258, -8.017247, 112.628317
+AMG, Tugu Jalan Kol. Sugiono, -8.018745, 112.628124
+AMG, Jalan Kolonel Sugiono No.262,-8.019510, 112.628006
+AMG, Warung Arema Indonesia, -8.020593, 112.627845
+AMG, Rhafa Cell Jalan Kol. Sugiono, -8.021443, 112.627727
+AMG, Jalan Kolonel Sugiono No.7, -8.022059, 112.627641
+AMG, Jalan Kolonel Sugiono No.7, -8.022282, 112.627652
+AMG, Terminal Gadang, -8.0206623,112.6279414
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

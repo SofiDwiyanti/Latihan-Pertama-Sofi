@@ -1,0 +1,516 @@
+MK, Terminal Madyopuro, -7.9786128,112.6657383
+MK, Jalan Danau Jonge No.L29, -7.975149, 112.670867
+MK, Jalan Danau Jonge No.L29, -7.975559, 112.671525
+MK, Jalan Danau Bratan Timur XIA, -7.976069, 112.671525
+MK, Jalan Danau Bratan Timur XIA, -7.976876, 112.671096
+MK, Jalan Danau Bratan Timur VI No.23, -7.977640, 112.670532
+MK, Warung Biru, Jalan Ki Ageng Gribig, -7.978830, 112.669888
+MK,Bengkel Per Sumber Agung, Jalan Ki Ageng Gribig, -7.979893, 112.669245
+MK, Sekolah Dasar Dan Pra Sekolah, Jalan Ki Ageng Gribig, -7.980148, 112.667914
+MK, Nurbaiti Cell, Jalan Ki Ageng Gribig, -7.980233, 112.666670
+MK, Bengkel Mobil, Jalan Ki Ageng Gribig, -7.980360, 112.665211
+MK, Sinar Ilmu, Jalan Ki Ageng Gribig, -7.980445, 112.663837
+MK, Jalan Danau Toba, -7.980828, 112.662550
+MK, Warung Bakso Pak Taufik, Jalan Ki Ageng Gribig, -7.981890, 112.661606
+MK, Gang Santer, -7.982485, 112.661177
+MK, Warung "Bu Sam", Jalan Ki Ageng Gribig, -7.983590, 112.660147
+MK, Jalan Ki Ageng Gribig No.18, -7.984185, 112.658859
+MK, Bengkel Pa'e, -7.984950, 112.657529
+MK, Jalan Dirgantara VI, -7.985545, 112.656370
+MK, Jalan Dirgantara VI, -7.985970, 112.655555
+MK, Jalan Dirgantara VI, -7.986948, 112.653924
+MK, Warung Pak Parjo, Jalan Ki Ageng Gribig, -7.987798, 112.652980
+MK, SD Negeri Kedung Kandang 1, Jalan Ki Ageng Gribig No.394, -7.988563, 112.652207
+MK, SDN 1, Jalan H Nasrudin, -7.989455, 112.651134
+MK, Djagung Padi, Jalan Ki Ageng Gribig No.316, -7.990645, 112.649976
+MK, Madrasah Aliyah Muhammadiyah 2 Malang, Jalan Ki Ageng Gribig, -7.991708, 112.648946
+MK, UD Usaha Baru, Jalan Ki Ageng Gribig, -7.992685, 112.648388
+MK, Jalan Mayjen Sungkono, -7.993535, 112.647916
+MK, Armas Konfeksi, -7.993450, 112.646800
+MK, SPS Pos PAUD Flamboyan 7, -7.992983, 112.645427
+MK, SaloN, -7.992388, 112.643925
+MK, Jalan Muharto Timur No.10, -7.993495, 112.646378
+MK, Jalan Muharto Timur No.10, -7.993362, 112.646078
+MK, Jalan Muharto Timur No.47, -7.993208, 112.645697
+MK, Jalan Muharto Timur No.47, -7.993076, 112.645418
+MK, Jalan Muharto Timur No.47, -7.992932, 112.645010
+MK, Jalan Muharto No.41, -7.992783, 112.644667
+MK, Jalan Muharto No.41, -7.992603, 112.644302
+MK, Jalan Muharto No.67, -7.992459, 112.643991
+MK, Jalan Muharto No.39, -7.992369, 112.643744
+MK, Jalan Muharto No.39, -7.992231, 112.643524
+MK, Jalan Muharto No.39, -7.992130, 112.643310
+MK, Jalan Muharto No.51, -7.991886, 112.642848
+MK, Jalan Muharto No.6, -7.991758, 112.642628
+MK, Jalan Muharto No.6, -7.991599, 112.642382
+MK, Jalan Muharto No.51, -7.991482, 112.642221
+MK, Jalan Muharto No.27B, -7.991344, 112.642022
+MK, Jalan Muharto No.27, -7.991142, 112.641743
+MK, Jalan Muharto No.59 C, -7.990919, 112.641389
+MK, Jalan Muharto No.28 B, -7.990797, 112.641137
+MK, Jalan Muharto No.28 B, -7.990653, 112.640847
+MK, Jalan Muharto No.57, -7.990446, 112.640574
+MK, Jalan Muharto No.57, -7.990276, 112.640332
+MK, Jalan Muharto No.57, -7.990133, 112.640155
+MK, Jalan Muharto No.45, -7.989931, 112.639935
+MK, Jalan Muharto No.29, -7.989777, 112.639769
+MK, Jalan Muharto No.22, -7.989617, 112.639538
+MK, Jalan Muharto No.55, -7.989384, 112.639292
+MK, Jalan Muharto No.53, -7.989139, 112.639066
+MK, Jalan Muharto No.53, -7.988937, 112.638895
+MK, Jalan Zaenal Zakse No.78, -7.988560, 112.638530
+MK, Jalan Zaenal Zakse No.78, -7.988316, 112.638278
+MK, Jalan Zaenal Zakse No.59, -7.988098, 112.637956
+MK, Jalan Zaenal Zakse No.49, -7.987944, 112.637634
+MK, Jalan Zaenal Zakse No.33, -7.987705, 112.637103
+MK, Jalan Zaenal Zakse No.27, -7.987561, 112.636744
+MK, Jalan Zaenal Zakse No.14, -7.987397, 112.636379
+MK, Jalan Zaenal Zakse No.11, -7.987190, 112.635928
+MK, Jalan Pasar Besar No.147, -7.986993, 112.635504
+MK, Jalan Pasar Besar No.147, -7.986823, 112.635193
+MK, Jalan Pasar Besar No.141, -7.986695, 112.634904
+MK, Jalan Pasar Besar No.104-108, -7.986552, 112.634603
+MK, Jalan Pasar Besar No.111, -7.986382, 112.634308
+MK, Jalan Pasar Besar No.105, -7.986249, 112.634035
+MK, Jalan Pasar Besar No.87, -7.986132, 112.633804
+MK, Bank Ekonomi Cabang Malang, -7.986021, 112.633503
+MK, Jalan Zainul Arifin No.101, -7.985729, 112.633557
+MK, Jalan Zainul Arifin No.95, -7.985405, 112.633664
+MK, Jalan Zainul Arifin No.108, -7.985155, 112.633755
+MK, Jalan Zainul Arifin No.63, -7.984592, 112.633911
+MK, Jalan Zainul Arifin No.53A, -7.983875, 112.634120
+MK, Jalan Zainul Arifin No.52, -7.983434, 112.634265
+MK, Jalan Zainul Arifin No.52, -7.983216, 112.634318
+MK, Jalan Zainul Arifin No.52, -7.982919, 112.634415
+MK, Jalan Zainul Arifin No.33 KD, -7.982643, 112.634495
+MK, Jalan Zainul Arifin No.15, -7.982345, 112.634587
+MK, Jalan Zainul Arifin No.13, -7.982064, 112.634667
+MK, Jalan Zainul Arifin No.13, -7.981766, 112.634758
+MK, Jalan Aries Munandar No.14A, -7.981650, 112.634739
+MK, Gereja Patekostha, Jalan Aries Munandar No.64, -7.981586, 112.634438
+MK, Jalan Aries Munandar No.14A, -7.981546, 112.634248
+MK, Jalan Aries Munandar No.19, -7.981482, 112.634039
+MK, Jalan Aries Munandar No.19, -7.981432, 112.633712
+MK, Jalan Aries Munandar No.19, -7.981392, 112.633538
+MK, Jalan Aries Munandar No.17, -7.981323, 112.633107
+MK, Jalan Aries Munandar No.1, -7.981293, 112.632920
+MK, Jalan Aries Munandar No.1, -7.981246, 112.632726
+MK, Jalan Aries Munandar No.1, -7.981214, 112.632539
+MK, Jalan Aries Munandar No.1, -7.981179, 112.632340
+MK, Jalan Aries Munandar No.1, -7.981137, 112.632152
+MK, Jalan Aries Munandar No.1, -7.981099, 112.631930
+MK, Jalan MGR Sugiyopranoto No.4, -7.981113, 112.631892
+MK, Jalan MGR Sugiyopranoto No.4, -7.981261, 112.631860
+MK, Jalan MGR Sugiyopranoto No.4, -7.981429, 112.631828
+MK, Jalan MGR Sugiyopranoto No.4, -7.981543, 112.631796
+MK, Jalan MGR Sugiyopranoto No.4, -7.981700, 112.631753
+MK, Jalan MGR Sugiyopranoto No.4, -7.981734, 112.631747
+MK, Jalan Merdeka Timur No.2F, -7.981931, 112.631707
+MK, Jalan Merdeka Timur No.2F, -7.982154, 112.631656
+MK, Jalan Merdeka Timur No.2F, -7.982337, 112.631619
+MK, Jalan Merdeka Timur No.2F, -7.982531, 112.631573
+MK, Jalan Merdeka Timur No.2F, -7.982765, 112.631517
+MK, Jalan Merdeka Timur No.2F, -7.982961, 112.631482
+MK, Jalan Merdeka Timur No.2F, -7.983118, 112.631439
+MK, Jalan Merdeka Timur No.2F, -7.983317, 112.631404
+MK, Jalan Merdeka Timur No.2F, -7.983477, 112.631369
+MK, Jalan Merdeka Timur No.2F, -7.983562, 112.631342
+MK, Jalan Merdeka Selatan No.5, -7.983572, 112.631214
+MK, Jalan Merdeka Selatan No.5, -7.983519, 112.631050
+MK, Jalan Merdeka Selatan No.5, -7.983471, 112.630903
+MK, Malang Post, Jalan Merdeka Selatan, -7.983429, 112.630704
+MK, Jalan Merdeka Selatan No.5, -7.983386, 112.630573
+MK, Jalan Merdeka Selatan No.5, -7.983336, 112.630406
+MK, Jalan Merdeka Selatan No.6, -7.983301, 112.630224
+MK, Jalan Merdeka Selatan No.6, -7.983267, 112.630071
+MK, Jalan Merdeka Selatan No.6, -7.983227, 112.629940
+MK, Jalan Kauman No.1, -7.983216, 112.629875
+MK, Jalan Kauman No.6, -7.983046, 112.629272
+MK, Jalan Kauman No.15, -7.982975, 112.629014
+MK, Jalan Kauman No.15, -7.982920, 112.628806
+MK, Masjid Jamek Malang Kota, Jalan Kauman, -7.982822, 112.628383
+MK, Jalan Kauman No.19, -7.982787, 112.628257
+MK, Jalan Kauman No.19, -7.982760, 112.628077
+MK, Jalan Kauman No.23, -7.982710, 112.627884
+MK, Jalan Kauman No.25, -7.982686, 112.627758
+MK, Jalan Kauman No.25, -7.982644, 112.627602
+MK, Jalan Kauman No.38, -7.982551, 112.627221
+MK, Jalan Kauman No.38, -7.982508, 112.627058
+MK, Jalan Kauman No.40, -7.982471, 112.626977
+MK, Jalan Kyai Haji Hasyim Ashari, -7.982375, 112.626950
+MK, Jalan Kyai Haji Hasyim Ashari, -7.982261, 112.626999
+MK, Jalan Kyai Haji Hasyim Ashari, -7.982144, 112.627052
+MK, Jalan Kyai Haji Hasyim Ashari, -7.981995, 112.627122
+MK, Jalan Kyai Haji Hasyim Ashari, -7.981860, 112.627181
+MK, Jalan Kyai Haji Hasyim Ashari, -7.981685, 112.627245
+MK, Jalan Kyai Haji Hasyim Ashari, -7.981600, 112.627278
+MK, Jalan Arif Rahman Hakim No.22, -7.981223, 112.627404
+MK, Jalan Arif Rahman Hakim No.22, -7.981082, 112.627484
+MK, Jalan Arif Rahman Hakim No.22, -7.980928, 112.627562
+MK, Jalan Kawi No.8a, -7.980859, 112.627562
+MK, Jalan Kawi No.10, -7.980747, 112.627327
+MK, SDN KAMULAN 01, Jalan Kawi Blok A No.9, -7.980680, 112.627208
+MK, Jalan Kawi No.5, -7.980529, 112.627021
+MK, Jalan Kawi No.7, -7.980441, 112.626913
+MK, Jalan Kawi No.7-9, -7.980325, 112.626755
+MK, Jalan Kawi No.16, -7.980197, 112.626592
+MK, Jalan Kawi No.9, -7.980104, 112.626449
+MK, Jalan Kawi No.16, -7.979990, 112.626322
+MK, Jalan Kawi No.9, -7.979903, 112.626185
+MK, Jalan Kawi No.16, -7.979826, 112.626081
+MK, Jalan Kawi No.16, -7.979741, 112.625947
+MK, Jalan Kawi No.15, -7.979624, 112.625778
+MK, Jalan Kawi No.15, -7.979541, 112.625657
+MK, Jalan Kawi No.15, -7.979411, 112.625501
+MK, Jalan Kawi No.15, -7.979273, 112.625300
+MK, Gereja Huria Kristen Batak Protestan, Jalan Bromo No.39, -7.979182, 112.625118
+MK, Jalan Kawi No.15, -7.979076, 112.624943
+MK, Jalan Kawi No.15, -7.978991, 112.624815
+MK, Jalan Kawi No.15, -7.978903, 112.624686
+MK, Jalan Kawi No.15, -7.978765, 112.624506
+MK, Jalan Kawi No.15, -7.978659, 112.624380
+MK, Jalan Kawi No.15, -7.978563, 112.624267
+MK, Jalan Kawi No.637, -7.978344, 112.623958
+MK, Jalan Kawi No.637, -7.978195, 112.623781
+MK, Jalan Kawi No.27, -7.978038, 112.623622
+MK, Jalan Kawi No.27, -7.977881, 112.623394
+MK, Jalan Kawi No.31, -7.977688, 112.623173
+MK, Jalan Kawi No.31, -7.977595, 112.623047
+MK, Jalan Kawi No.39, -7.977518, 112.622932
+MK, Jalan Kawi No.39, -7.977387, 112.622795
+MK, Jalan Kawi No.39, -7.977249, 112.622615
+MK, Jalan Kawi No.39, -7.977111, 112.622409
+MK, Jalan Kawi No.39, -7.976976, 112.622218
+MK, Jalan Kawi No.41, -7.976753, 112.621929
+MK, Jalan Kawi No.41, -7.976612, 112.621725
+MK, Jalan Kawi No.41, -7.976521, 112.621601
+MK, Jalan Kawi No.41, -7.976279, 112.621279
+MK, Jalan Kawi No.41, -7.976183, 112.621121
+MK, Jalan Kawi No.41, -7.975949, 112.620779
+MK, Jalan Kawi No.41, -7.975884, 112.620678
+MK, Jalan Ijen No.10, -7.975770, 112.620568
+MK, Jalan Ijen No.10, -7.975632, 112.620587
+MK, Jalan Ijen No.10, -7.975417, 112.620620
+MK, Jalan Ijen No.10, -7.975173, 112.620687
+MK, Jalan Ijen No.10, -7.974987, 112.620733
+MK, Jalan Ijen No.10, -7.974777, 112.620797
+MK, Jalan Ijen No.10, Jalan Ijen No.12
+MK, Jalan Ijen No.12, -7.974397, 112.620883
+MK, Jalan Ijen No.12, -7.974203, 112.620932
+MK, Jalan Ijen No.12, -7.974025, 112.620980
+MK, Jalan Ijen No.18, -7.973791, 112.621035
+MK, Jalan Ijen No.18, -7.973554, 112.621097
+MK, Jalan Ijen No.18, -7.973376, 112.621147
+MK, Jalan Ijen No.18, -7.972986, 112.621244
+MK, Jalan Ijen No.18, -7.972773, 112.621290
+MK, Jalan Ijen No.18, -7.972596, 112.621330
+MK, Jalan Ijen No.18, -7.972457, 112.621381
+MK, Jalan Ijen No.18, -7.972295, 112.621445
+MK, Jalan Ijen, -7.972096, 112.621512
+MK, Jalan Ijen, -7.971961, 112.621579
+MK, Jalan Besar Ijen No.31, -7.971753, 112.621716
+MK, Jalan Besar Ijen No.31, -7.971573, 112.621837
+MK, Jalan Besar Ijen No.31, -7.971413, 112.621928
+MK, Jalan Besar Ijen No.33, -7.971259, 112.622006
+MK, Jalan Besar Ijen No.35, -7.971100, 112.622097
+MK, Jalan Besar Ijen No.35, -7.970765, 112.622295
+MK, Jalan Besar Ijen No.39, -7.970678, 112.622371
+MK, Jalan Besar Ijen No.39, -7.970489, 112.622478
+MK, Jalan Besar Ijen No.41, -7.970290, 112.622577
+MK, Jalan Besar Ijen No.41, -7.970149, 112.622660
+MK, Jalan Besar Ijen No.46, -7.969968, 112.622762
+MK, Jalan Besar Ijen No.48, -7.969812, 112.622875
+MK, Jalan Besar Ijen No.53, -7.969634, 112.622961
+MK, Jalan Besar Ijen No.53, -7.969448, 112.623055
+MK, Jalan Besar Ijen No.53, -7.969254, 112.623156
+MK, Jalan Besar Ijen No.53, -7.969076, 112.623256
+MK, Jalan Besar Ijen No.53, -7.968874, 112.623376
+MK, Jalan Besar Ijen No.53, -7.968710, 112.623464
+MK, Jalan Pahlawan Trip, -7.968572, 112.623525
+MK, Jalan Pahlawan Trip, -7.968509, 112.623343
+MK, Jalan Pahlawan Trip, -7.968454, 112.623163
+MK, RSIA Husada Bunda, -7.9683035,112.6224927
+MK, Jalan Pahlawan Trip, -7.968374, 112.622866
+MK, Jalan Pahlawan Trip, -7.968313, 112.622694
+MK, Jalan Pahlawan Trip, -7.968244, 112.622522
+MK, Jalan Pahlawan Trip, -7.968159, 112.622289
+MK, Jalan Pahlawan Trip, -7.968084, 112.622064
+MK, Jalan Pahlawan Trip, -7.967991, 112.621873
+MK, Jalan Pahlawan Trip, -7.967912, 112.621712
+MK, Jalan Pahlawan Trip, -7.967832, 112.621549
+MK, Jalan Pahlawan Trip, -7.967667, 112.621211
+MK, Jalan Pahlawan Trip, -7.967553, 112.620980
+MK, Jalan Pahlawan Trip, -7.967455, 112.620760
+MK, Jalan Pahlawan Trip, -7.967351, 112.620545
+MK, Jalan Pahlawan Trip, -7.967237, 112.620331
+MK, Jalan Pahlawan Trip, -7.967152, 112.620159
+MK, Jalan Pahlawan Trip, -7.967067, 112.620001
+MK, Jalan Pahlawan Trip, -7.966974, 112.619843
+MK, Jalan Pahlawan Trip, -7.966886, 112.619703
+MK, Jalan Pahlawan Trip, -7.966738, 112.619424
+MK, Jalan Surabaya No.3A, -7.966663, 112.619293
+MK, Jalan Surabaya No.3A, -7.966573, 112.619143
+MK, BRI KK Universitas Negeri Malang, -7.9665252,112.6184839
+MK, Jalan Surabaya No.3A, -7.966399, 112.618811
+MK, Jalan Surabaya No.2, -7.966298, 112.618615
+MK, Jalan Surabaya No.3, -7.966210, 112.618433
+MK, Jalan Surabaya No.2A, -7.966109, 112.618267
+MK, Jalan Surabaya No.3, -7.965971, 112.617956
+MK, Jalan Surabaya No.4, -7.965860, 112.617789
+MK, Jalan Surabaya No.6, -7.965801, 112.617671
+MK, Jalan Surabaya No.6, -7.965714, 112.617516
+MK, Jalan Surabaya No.6, -7.965610, 112.617355
+MK, Jalan Surabaya No.5, -7.965490, 112.617140
+MK, Jalan Surabaya No.5, -7.965386, 112.616982
+MK, Jalan Surabaya No.17, -7.965261, 112.616767
+MK, Jalan Surabaya No.17, -7.965222, 112.616679
+MK, Jalan Surabaya No.17, -7.965105, 112.616499
+MK, Jalan Terusan Surabaya No.17a, -7.964975, 112.616303
+MK, Jalan Terusan Surabaya No.17-20, -7.964868, 112.616148
+MK, Jalan Terusan Surabaya No.23, -7.964757, 112.615989
+MK, Jalan Terusan Surabaya No.28, -7.964629, 112.615778
+MK, Jalan Terusan Surabaya No.19, -7.964547, 112.615582
+MK, Jalan Terusan Surabaya No.30-37, -7.964472, 112.615383
+MK, Jalan Terusan Surabaya No.19, -7.964366, 112.615260
+MK, Jalan Terusan Surabaya No.37-38, -7.964279, 112.615128
+MK, Jalan Terusan Surabaya No.38, -7.964183, 112.614941
+MK, Jalan Terusan Surabaya No.31 B, -7.964087, 112.614691
+MK, Jalan Terusan Surabaya No.31, -7.963997, 112.614485
+MK, Jalan Terusan Surabaya No.55C, -7.963947, 112.614278
+MK, Jalan Terusan Surabaya No.55C, -7.963928, 112.614115
+MK, Jalan Terusan Surabaya No.57B, -7.963896, 112.613924
+MK, Jalan Terusan Surabaya No.57B, -7.963891, 112.613699
+MK, Jalan Terusan Surabaya No.57B, -7.963912, 112.613578
+MK, Jalan Bendungan Sutami No.7, -7.963818, 112.613501
+MK, Jalan Bendungan Sutami No.7, -7.963635, 112.613493
+MK,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

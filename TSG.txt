@@ -1,0 +1,139 @@
+	Pasar Tawangmangu
+TSG, Pasar Tawangmangu, -7.9599817,112.6287997
+TSG, Jalan Sendang Biru No.1, -7.959774, 112.630602
+TSG, Jalan Sendang Biru No.1, -7.960019, 112.630500
+TSG, Jalan Sendang Biru No.1, -7.960125, 112.630457
+	Jalan Gilimanuk
+TSG,Jalan Gilimanuk No.21, -7.958389, 112.627222 
+TSG, Jalan Gilimanuk No.36, -7.957964, 112.626363
+TSG, Jalan Gilimanuk No.57, -7.957539, 112.625677
+TSG, Jalan Gilimanuk No.75, -7.956859, 112.625162
+TSG, Jalan Anggrek Vanda No.9, -7.955856, 112.625240
+TSG, Jalan Anggrek Vanda No.20, -7.955675, 112.624972
+TSG, Jalan Anggrek Vanda No.20, -7.955548, 112.624650
+TSG, Jalan Anggrek Bulan, -7.955293, 112.624704
+TSG, Jalan Anggrek Bulan, -7.955080, 112.624811
+TSG, Jalan Bunga Cempaka Indah No.5, -7.954713, 112.624990
+TSG, Jalan Bunga Cempaka Indah No.5, -7.954437, 112.625119
+TSG, Jalan Bunga Srigading No.27, -7.954321, 112.625212
+TSG, Jalan Bunga Srigading No.26, -7.954119, 112.625158
+TSG, Jalan Bunga Srigading No.35, -7.953949, 112.624826
+TSG, Jalan Bunga Srigading No.35, -7.953747, 112.624407
+TSG, Jalan Bunga Srigading No.35, -7.953545, 112.624010
+TSG, Jalan Bunga Srigading No.2 A, -7.953386, 112.623689
+TSG, Jalan Bunga Srigading No.2 A, -7.953184, 112.623367
+TSG, Jalan Bunga Srigading No.15, -7.953014, 112.623131
+TSG, Jalan Bunga Srigading No.19, -7.952780, 112.622820
+TSG, Jalan Bunga Srigading No.19, -7.952525, 112.622508
+TSG, Jalan Bunga Srigading No.19, -7.952302, 112.622187
+TSG, Jalan Bunga Srigading No.19, -7.952302, 112.622187
+TSG, Jalan Dewandaru No.88, -7.951888, 112.622208
+TSG, Jalan Dewandaru No.88, -7.951378, 112.622508
+TSG, Jalan Dewandaru No.82, -7.951240, 112.622594
+TSG, Jalan Dewandaru No.82, -7.950847, 112.622787
+TSG, Jalan Dewandaru No.64, -7.950443, 112.623002
+TSG, Jalan Dewandaru No.64, -7.950103, 112.623174
+TSG, Jalan Dewandaru No.31, -7.949742, 112.623367
+TSG, Jalan Dewandaru No.56, -7.949253, 112.623646
+TSG, Jalan Dewandaru No.56, -7.949051, 112.623742
+TSG, Jalan Dewandaru No.6, -7.947946, 112.624343
+TSG, Jalan B. Cengkeh No.143, -7.947486, 112.624595
+TSG, Jalan B. Cengkeh No.143, -7.947316, 112.624241
+TSG, Jalan B. Cengkeh No.143, -7.947114, 112.623823
+TSG, Jalan B. Cengkeh No.143, -7.946912, 112.623447
+TSG, Jalan B. Cengkeh No.23, -7.946699, 112.623018
+TSG, Ud Prakarsa, Jalan B. Cengkeh, -7.946529, 112.622643
+TSG, Clove T-Shirt, -7.946322, 112.622249
+TSG, Jalan B. Cengkeh No.11D, -7.945992, 112.621722
+TSG, Jalan B. Cengkeh No.54, , -7.945473, 112.620897
+TSG, Jalan Bunga Coklat No.7, -7.945303, 112.620618
+TSG, Jalan Bunga Coklat No.7, -7.945038, 112.620264
+TSG, Jalan Bunga Coklat No.7, -7.944846, 112.619878
+	Jalan Soekarno Hatta
+TSG, Madonna, -7.944655, 112.619631
+TSG, De Nins, -7.944719, 112.619365
+TSG, Stylishop, -7.945006, 112.619129
+TSG, Media Mobile Interselular, -7.945272, 112.618903
+TSG, Jalan Soekarno Hatta No.24, -7.945686, 112.618571
+TSG, Jalan Soekarno Hatta No.20, -7.946069, 112.618292
+TSG, Jalan Soekarno Hatta No.20, -7.946133, 112.618249
+TSG, Jalan Soekarno Hatta No.1, -7.946494, 112.617991
+TSG, Jalan Soekarno Hatta No.8B, -7.946951, 112.617648
+TSG, Jalan Soekarno Hatta No.8B, -7.947312, 112.617401
+TSG, Jalan Soekarno Hatta No.8, -7.947748, 112.617111
+TSG, Jalan Soekarno Hatta No.8B, -7.948194, 112.616747
+TSG, Jalan Soekarno Hatta, -7.948502, 112.616575
+TSG, Jalan Soekarno Hatta, -7.949097, 112.616071
+TSG, Jalan Soekarno Hatta, -7.949469, 112.615749
+TSG, Jalan Soekarno Hatta, -7.949841, 112.615502
+	Jalan M.T Haryono
+TSG, Jalan M.T. Haryono No.161, -7.949713, 112.615255
+TSG, Warung, Jalan M.T. Haryono, -7.948831, 112.614419
+TSG, Jalan M.T. Haryono No.72, -7.948417, 112.614065
+TSG, Jalan M.T. Haryono No.72, -7.947971, 112.613721
+TSG, Jalan M.T. Haryono No.72, -7.947546, 112.613421
+TSG, Apotek Kimia Farma MT haryono, Jalan M.T. Haryono, -7.947291, 112.613260
+TSG, Joss Juice, Jalan M.T. Haryono, -7.946951, 112.612970
+TSG, Quick Chicken, -7.946653, 112.612713
+TSG, Joker Cafe, Jalan M.T. Haryono, -7.946451, 112.612605
+TSG, Jalan M.T. Haryono, -7.946058, 112.612326
+TSG, Jalan M.T. Haryono No.331, -7.945633, 112.612058
+TSG, Jil Computer, Jalan M.T. Haryono No.126, -7.945155, 112.611790
+TSG, Jalan M.T. Haryono No.331, -7.944815, 112.611532
+TSG, Jalan M.T. Haryono, -7.944432, 112.611232
+TSG, Jalan M.T. Haryono No.6, -7.943975, 112.610910
+TSG, Putra Jaya, Jalan M.T. Haryono No.64, -7.943614, 112.610610
+TSG, Gazebo Ptiik, Mt Haryono, -7.943179, 112.610320
+	Jalan Gajayana
+TSG, Jalan Gajayana, -7.943380, 112.610138
+TSG, Jalan Gajayana, -7.943653, 112.610052
+TSG, Jalan Gajayana, -7.944046, 112.609902
+TSG, Jalan Gajayana, -7.944248, 112.609827
+TSG, Jalan Gajayana, -7.944545, 112.609709
+TSG, Jalan Gajayana, -7.944848, 112.609634
+TSG, Jalan Gajayana, -7.945289, 112.609510
+TSG, Jalan Gajayana, -7.945576, 112.609419
+TSG, Jalan Gajayana, -7.945666, 112.609381
+TSG, Jalan Gajayana, -7.946054, 112.609231
+TSG, Jalan Gajayana No.14 C, -7.946399, 112.609119
+TSG, Jalan Gajayana No.14 C, -7.946729, 112.608963
+TSG, Jalan Gajayana No.14 C, -7.947148, 112.608834
+TSG, Jalan Gajayana No.14 C, -7.947377, 112.608807
+TSG, Jalan Gajayana No.14 C, -7.947664, 112.608781
+TSG, Jalan Gajayana No.14 C, -7.947967, 112.608765
+TSG, Jalan Gajayana No.14 C, -7.948291, 112.608775
+TSG, Jalan Gajayana No.14 C, -7.948556, 112.608797
+TSG, Jalan Gajayana No.14 C, -7.948833, 112.608818
+TSG, Jalan Gajayana No.14 C, -7.948939, 112.608834
+TSG, Jalan Gajayana No.14 C, -7.948939, 112.608834
+TSG, Jalan Gajayana No.36, -7.949497, 112.608855
+TSG, Jalan Gajayana No.36, -7.949773, 112.608861
+TSG, Jalan Gajayana No.36, -7.950039, 112.608855
+TSG, Warung Pojok, Jalan Raya Sumbersari, -7.950310, 112.608855
+TSG, Jalan Raya Sumbersari, -7.950416, 112.608855
+TSG, Jalan Gajayana No.36, -7.950677, 112.608872
+TSG, Jalan Gajayana No.36, -7.950889, 112.608898
+TSG, Jalan Gajayana No.36, -7.951181, 112.608936
+TSG, Bonchi, Jalan Gajayana, -7.951380, 112.608965
+TSG, OPTIK LENSA, Jalan Raya Sumbersari, -7.951858, 112.609094
+TSG, Bengkel Las Listrik / Karbit, Jalan Raya Sumbersari, -7.952385, 112.609343
+TSG, Bank Bri, Jalan Raya Sumbersari No.95, -7.952683, 112.609611
+TSG, Cabang Lesehan Bamboe, Jalan Raya Sumbersari, -7.952991, 112.609847
+TSG, Toko Kmputer, Jalan Raya Sumbersari, -7.953384, 112.610137
+TSG, Xerox Photo Copy, Jalan Raya Sumbersari, -7.953788, 112.610341
+TSG, Stasiun Telor, Jalan Raya Sumbersari, -7.954213, 112.610566
+TSG, Aha Parfum, Jalan Raya Sumbersari, -7.954574, 112.610845
+TSG, Jalan Raya Sumbersari No.253, -7.954967, 112.611167
+TSG, Waeung Al-Mira & Juice Corner, Jalan Raya Sumbersari, -7.955190, 112.611306
+TSG, Jalan Raya Sumbersari, -7.955584, 112.611757
+TSG, Jalan Raya Sumbersari No.292, -7.955955, 112.612122
+TSG, Jalan Raya Sumbersari No.303, -7.956306, 112.612444
+TSG, Jalan Bendungan Sutami No.317C, -7.956707, 112.612773
+TSG, Conter, Jalan Bendungan Sigura-Gura Barat, -7.956983, 112.612494
+TSG, Jalan Bendungan Sigura-Gura Barat, -7.957355, 112.612172
+TSG, 
+
+
+
+
+

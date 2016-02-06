@@ -1,0 +1,378 @@
+	Terminal Arjosari
+AL, terminal arjosari, -7.933213, 112.658070
+AL, Jalan Raden Intan No.99, -7.932937, 112.657522
+AL, Jalan Raden Intan, -7.932661, 112.656439
+AL, Jalan Raden Intan, -7.932129, 112.655184
+AL, Jalan Raden Intan, -7.931662, 112.654046
+AL, Jalan Raden Intan No.103, -7.930812, 112.652147
+	Jalan Panjisuroso
+AL, Jalan Panjisuroso, -7.930291, 112.650677
+AL, Jalan Panjisuroso, -7.930929, 112.650420
+AL, Jalan Panjisuroso No.15, -7.931991, 112.649991
+AL, Jalan Panjisuroso No.15, -7.933096, 112.649755
+Al, Jalan Panjisuroso NO.20, -7.933819, 112.649669
+AL, Jalan Panjisuroso NO.89, -7.934828, 112.649690
+AL, Jalan Panjisuroso No.16, -7.935604, 112.649680
+AL, Jalan Panjisuroso No.20a, -7.936359, 112.649712
+AL, KPP Madya Malang, Jalan Panjisuroso, -7.937049, 112.649712
+AL, Jalan Panjisuroso No.93, -7.937772, 112.649712
+AL, Gang SD, -7.938856, 112.649733
+AL, Jalan Panjisuroso No.72, -7.939599, 112.649647
+Al, Jalan Panjisuroso, -7.940588, 112.649411
+AL, Jalan Panjisuroso No.78, -7.941066, 112.649293
+AL, Jalan Panjisuroso No.3A,-7.942330, 112.648854
+AL, Ud. Unggul Jaya Electronik, -7.943531, 112.648296
+Al, Jalan Panjisuroso No.3, -7.943733, 112.648210
+	Jalan Laksda Adi Sucipto
+AL, Jalan Laksda Adi Sucipto No.140, -7.943744, 112.648210
+AL, Jalan Laksda Adi Sucipto No.161, -7.943839, 112.648467
+AL, Sanggar Tari Agape, Jalan Laksda Adi Sucipto, -7.944222, 112.649218
+AL, Medivac, Jalan Laksda Adi Sucipto,-7.944658, 112.650054
+AL, Apotek Kimia Farma Adi Sucipto,-7.944871, 112.650462
+AL, Pengadaian, Jalan Laksda Adi Sucipto, -7.945052, 112.650837
+AL, Tatto Studio, Jalan Laksda Adi Sucipto, -7.945285, 112.651309
+AL, Jalan Laksda Adi Sucipto No.245, -7.945572, 112.651856
+AL, Jalan Laksda Adi Sucipto No.245 A, -7.945902, 112.652393
+AL, Jalan Laksda Adi Sucipto No.226, -7.946157, 112.652940
+AL, Jalan Laksda Adi Sucipto No.226, -7.946614, 112.653777
+Al, Jalan Laksda Adi Sucipto No.275, -7.946815, 112.654131
+AL, Jalan Batubara No.9, -7.947007, 112.654034
+AL, Jalan Batubara No.9, -7.947517, 112.653830
+AL, Jalan Batubara No.36, -7.948037, 112.653627
+AL, Gang 4, -7.948802, 112.652940
+AL, Jalan Batubara No.36, -7.949334, 112.652725
+AL, Jalan Batubara No.36, -7.950099, 112.652328
+AL, Masjid Al Muhlisin, -7.950619, 112.652060
+	Jalan Tenaga
+AL, Jalan Taman Tenaga Baru No.6, -7.950279, 112.651502
+AL, Jalan Taman Tenaga Baru No.6, -7.949897, 112.650837
+AL, Jalan Taman Tenaga Baru No.6, -7.949557, 112.650247
+AL, Gereja Bethel Indonesia Bethany, -7.949334, 112.649872
+AL, Jalan Taman Tenaga Baru No.6, -7.948919, 112.649142
+AL, Jalan Taman Tenaga Baru No.2, -7.948526, 112.648474
+AL, Jalan Taman Tenaga Baru No.2, -7.948240, 112.647992
+AL, Jalan Taman Tenaga Baru No.2, -7.948070, 112.647605
+AL, Jalan Taman Tenaga Baru No.2, -7.948080, 112.647230
+AL, Jual Jamur Tiram, Jalan S. P. Sudarmo, -7.948048, 112.646940
+AL, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.41, -7.948356, 112.646897
+AL, Jalan Simpang Tenaga Selatan, -7.948739, 112.646822
+AL, Jalan Simpang Tenaga Selatan, -7.948696, 112.646232
+AL, Jalan Simpang Tenaga Selatan, -7.948356, 112.646039
+	Jalan Karya Timur
+AL, Jalan Karya Timur Glintung IV, -7.948378, 112.645771
+AL, Jalan Karya Timur Glintung IV, -7.948548, 112.645749
+AL, Jalan Karya Timur Glintung IV, -7.948271, 112.645181
+AL, Jalan Karya Timur Glintung IV, -7.948016, 112.644730
+AL, Jalan Karya Timur Glintung IV, -7.947634, 112.644108
+AL, Jalan Karya Timur Glintung IV, -7.947368, 112.643657
+AL, Jalan Karya Timur Glintung IV, -7.947177, 112.643282
+AL, Jalan Tenaga Utara No.5c, -7.946805, 112.642477
+AL, Jalan Karya Timur No.56, -7.947219, 112.642295
+AL, Jalan Karya Timur No.66, -7.947698, 112.642134
+AL, Jalan Karya Timur No.64, -7.948271, 112.641941
+AL, Jalan Karya Timur No.64, -7.948622, 112.641823
+AL, Jalan Karya Timur No.48, -7.949355, 112.641597
+AL, Jalan Karya Timur No.48, -7.949897, 112.641415
+AL, Jalan Karya Timur No.48, -7.950216, 112.641286
+AL, Jalan Karya Timur No.35, -7.950513, 112.641200
+AL, Jalan Karya Timur No.31, -7.951130, 112.640943
+AL, Jalan Karya Timur No.30, -7.951735, 112.640750
+AL, Jalan Karya Timur No.22, -7.952447, 112.640524
+AL, Taman Pendidikan Al-Qur'an (TPA/TPQ) Al Muhajirin, Jalan Kaya Timur No.4, -7.953127, 112.640299
+AL, Jalan Karya Timur No.25, -7.953807, 112.640042
+AL, Jalan Karya Timur No.25, -7.955316, 112.639462
+AL, Jalan Karya Timur No.72, -7.955848, 112.639280
+AL, Jalan Industri Timur, -7.956443, 112.639065
+AL, Jalan Industri Timur, -7.957006, 112.638840
+AL, Jalan Industri Timur, -7.958079, 112.638497
+AL, Jalan Asahan, -7.958738, 112.638239
+AL, Jalan Asahan, -7.959301, 112.638035
+AL, Jalan Asahan, -7.960087, 112.637756
+AL, Jalan Asahan, -7.960587, 112.637606
+AL, Jalan Asahan, -7.960587, 112.637606
+AL, Jalan Batanghari, -7.960905, 112.637456
+AL, Adi Jaya Motor, Jalan Batanghari No.B 88, -7.961437, 112.637327
+AL, Jalan Batanghari No.14, -7.962032, 112.637145
+AL, Cv. KM., Jalan Batanghari No.1E, -7.963445, 112.636844
+AL, Jalan Batanghari No.805, -7.963764, 112.636834
+	Jalan Mahakam
+AL, Jalan Mahakam No.10, -7.964380, 112.636748
+AL, Toko Knalpot, Jalan Mahakam, -7.964709, 112.636737
+AL, Suharto, Jalan Mahakam, -7.965070, 112.636769
+	Jalan WR. Supratman
+AL, Jalan Warung Supratman, -7.965488, 112.636782
+AL, Jalan Warung Supratman, -7.965254, 112.636202
+AL, Jalan Warung Supratman, -7.964957, 112.635752
+AL, Jalan Warung Supratman,-7.964723, 112.635344
+AL, Jalan Warung Supratman, -7.964606, 112.635086
+AL, Toko Mini Jaya, Jalan Jaksa Agung Suprapto, -7.964659, 112.634968
+AL, Melody Furniture, Jalan Jaksa Agung Suprapto, -7.965021, 112.634818
+AL, Pt. Kencana Internusa Artha Finance, Jalan Jaksa Agung Suprapto, -7.965403, 112.634593
+AL, Duta Graha, Jalan Jaksa Agung Suprapto, -7.965743, 112.634357
+AL, Jalan Jaksa Agung Suprapto III, -7.965934, 112.634325
+AL, Jalan Jaksa Agung Suprapto III, -7.966126, 112.634657
+AL, Jalan Jaksa Agung Suprapto III, -7.966306, 112.635054
+AL, Jalan Jaksa Agung Suprapto III, -7.966572, 112.635526
+AL, Jalan Dokter Wahidin, -7.966965, 112.636245
+AL, Jalan Dokter Wahidin, -7.967688, 112.636170
+AL, Jalan Dokter Wahidin, -7.968240, 112.636224
+AL, Jalan Dokter Wahidin, -7.968814, 112.636277
+AL, Jalan Dokter Wahidin, -7.969324, 112.636363
+AL, Jalan Dokter Cipto No.19, -7.969303, 112.636513
+AL, Utama Swalayan &Grosir, Jalan Doktor Cipto, -7.969356, 112.636728
+AL, Jalan Dokter Cipto No.24, -7.969313, 112.637061
+AL, Jalan Dokter Cipto No.24, -7.969260, 112.637436
+AL, Jalan Dokter Cipto No.32, -7.969239, 112.637940
+AL, Jalan Dokter Cipto No.32, -7.969271, 112.638305
+	Jalan paPanglima Sudirman 
+AL, Jalan Panglima Sudirman No.98, -7.969207, 112.638402
+AL, Jalan Panglima Sudirman No.98, -7.969791, 112.638434
+AL, Jalan Panglima Sudirman No.1, -7.970493, 112.638477
+AL, Polsek Kepanjen, Jalan Panglima Sudirman, -7.971130, 112.638423
+AL, Gereja Kristen Abdiel Imanuel, -7.971714, 112.638455
+AL, Jalan Panglima Sudirman No.75, -7.972533, 112.638445
+AL, Jalan Panglima Sudirman No.75, -7.972851, 112.638488
+AL, Jalan Panglima Sudirman No.12, -7.973393, 112.638530
+	Jalan Patimura
+AL, Jalan Patimura, -7.973457, 112.638370
+AL, Jalan Patimura, -7.973425, 112.637801
+AL, Jalan Patimura No.69, -7.973414, 112.637093
+	Jalan Trunojoyo
+AL, Spectrum, Jalan Trunojoyo, -7.973388, 112.636798
+AL, Jalan Trunojoyo No.33, -7.973494, 112.636626
+AL, Stmj, Jalan Trunojoyo, -7.974323, 112.636669
+AL, Jalan Trunojoyo No.19, -7.974950, 112.636680
+AL, Modern Photo, Jalan Trunojoyo, -7.975630, 112.636733
+AL, Gading Transport, Jalan Trunojoyo, -7.976087, 112.636744
+AL, Jalan Trunojoyo No.78, -7.976326, 112.636733
+AL, Jalan Trunojoyo No.78-81, -7.976634, 112.636749
+AL, Jalan Trunojoyo No.81, -7.976809, 112.636760
+AL, Jalan Trunojoyo No.81, -7.977229, 112.636814
+AL, Jalan Trunojoyo No.10, -7.977627, 112.636835
+	Jalan Kertanegara
+AL, Jalan Kertanegara No.3, -7.977680, 112.636776
+AL, Jalan Kertanegara No.3, -7.977595, 112.636218
+AL, Jalan Kertanegara No.1, -7.977516, 112.635773
+AL, R Langga, -7.977447, 112.635435
+AL, Jalan Kertanegara No.1, -7.977362, 112.635065
+AL, Jalan Kertanegara, -7.977293, 112.634700
+	Jalan Tugu
+AL, Malang City Tour Station, Jalan Tugu, -7.977346, 112.634652
+AL, Jalan Tugu No.1A, -7.977457, 112.634593
+AL, Jalan Tugu No.1A, -7.977558, 112.634518
+AL, Jalan Tugu No.1A, -7.977707, 112.634314
+AL, Balaikota Malang, Jalan Tugu No.1, -7.977750, 112.634046
+AL, Jalan Tugu No.1, -7.977718, 112.633815
+AL, Jalan Tugu No.1, -7.977611, 112.633638
+AL, Balaikota Malang, Jalan Tugu No.1, -7.977394, 112.633466
+AL, Balaikota Malang, Jalan Tugu No.1, -7.977080, 112.633413
+	Jalan Kahuripan
+AL, Jalan Kahuripan, -7.976964, 112.633318
+AL, Jalan Kahuripan, -7.976903, 112.633021
+AL, Jalan Kahuripan, -7.976807, 112.632683
+AL, Jalan Kahuripan, -7.976691, 112.632146
+AL, Jalan Kahuripan No.14, -7.976616, 112.631604
+AL, Jalan Kahuripan No.14, -7.976590, 112.631240
+AL, Jalan Kahuripan No.14, -7.976584, 112.630816
+AL, Jalan Kahuripan No.11, -7.976558, 112.630440
+AL, Jalan Kahuripan No.20, -7.976521, 112.630092
+AL, Jalan Kahuripan No.22a, -7.976515, 112.629786
+AL, Jalan Kahuripan No.22a, -7.976494, 112.629475
+	JAlan Semeru
+AL, Jalan Semeru No.3, -7.976457, 112.629271
+AL, Jalan Semeru No.10, -7.976457, 112.628788
+AL, Jalan Semeru No.21, -7.976489, 112.628450
+AL, Jalan Semeru No.21, -7.976505, 112.628139
+AL, Jalan Semeru No.21, -7.976537, 112.627817
+AL, Jalan Semeru No.34, -7.976319, 112.627522
+AL, Jalan Semeru No.34, -7.976154, 112.627281
+AL, Jalan Semeru No.34, -7.976032, 112.627045
+AL, Jalan Semeru No.41, -7.975952, 112.626873
+AL, Jalan Semeru No.41, -7.975713, 112.626444
+AL, Jalan Semeru No.41, -7.975506, 112.626202
+AL, Jalan Semeru No.42, -7.975336, 112.625822
+AL, Jalan Semeru No.42, -7.975182, 112.625859
+AL, Jalan Semeru No.42, -7.974863, 112.625602
+AL, Lembaga Bimbingan Belajar Primagama - Semeru Malang, -7.974438, 112.625232
+AL, Jalan Semeru No.60, -7.974194, 112.624926
+AL, Jalan Semeru No.60, -7.973917, 112.624604
+AL, Jalan Semeru No.62, -7.973583, 112.624169
+AL, Jalan Semeru No.43, -7.973354, 112.623783
+AL, Jalan Semeru No.43, -7.973211, 112.623510
+AL, Jalan Semeru No.49, -7.973052, 112.623215
+AL, Jalan Semeru No.49, -7.972871, 112.622836
+AL, Jalan Semeru No.57, -7.972717, 112.622456
+AL, Jalan Semeru No.57, -7.972494, 112.622026
+AL, Jalan Semeru No.57, -7.972536, 112.621737
+	Jalan Ijen
+AL, Jalan Ijen No.18, -7.972664, 112.621640
+AL, Jalan Ijen No.18, -7.973084, 112.621522
+AL, Jalan Ijen No.18, -7.973487, 112.621399
+AL, ATM BNI GALERI ATM MALANG, Jalan Ijen, -7.973625, 112.621238
+AL, Jalan Ijen No.12, -7.974088, 112.621184
+AL, Jalan Ijen No.12, -7.974470, 112.621082
+AL, Jalan Ijen No.12, -7.974412, 112.620868
+AL, Jalan Ijen No.18, -7.973865, 112.621002
+AL, Jalan Ijen No.18, -7.973534, 112.621077
+AL, Jalan Ijen No.18, -7.973183, 112.621158
+AL, Jalan Ijen No.18, -7.972838, 112.621243
+AL, Jalan Ijen No.18, -7.972530, 112.621324
+AL, Jalan Ijen, -7.972227, 112.621431
+AL, Jalan Ijen, -7.971935, 112.621538
+	Jalan Retawu
+AL, Jalan Retawu, -7.971813, 112.621549
+AL, Jalan Retawu No.6A, -7.971621, 112.621238
+AL, Jalan Retawu No.6A, -7.971435, 112.620916
+AL, Jalan Retawu No.6A, -7.971111, 112.620535
+AL, Jalan Retawu No.8, -7.970888, 112.620144
+AL, Jalan Retawu No.22, -7.970288, 112.619242
+AL, Jalan Retawu No.22, -7.969943, 112.618819
+AL, Jalan Retawu No.22, -7.969650, 112.618491
+AL, Jalan Retawu No.22, -7.969348, 112.618175
+AL, Jalan Retawu No.22, -7.969151, 112.617950
+	JAlan Bondowoso
+AL, Jalan Bondowoso No.9, -7.969002, 112.617799
+AL, Jalan Bondowoso No.9, -7.968742, 112.617558
+AL, Universitas Katolik Widya Karya, -7.968599, 112.617574
+AL, Jalan Bondowoso No.9, -7.968429, 112.617236
+AL, Jalan Bondowoso No.11, -7.968168, 112.616904
+AL, Jalan Bondowoso No.15B, -7.967961, 112.616560
+AL, Jalan Bondowoso No.15, -7.967834, 112.616271
+AL, Jalan Bondowoso No.16, -7.967648, 112.616061
+AL, Jalan Bondowoso No.23, -7.967541, 112.615480
+	Jalan Jombang 
+AL, Jalan Jombang No.32, -7.967419, 112.615394
+AL, Jalan Jombang No.32, -7.967101, 112.615432
+AL, Jalan Jombang No.1-28, -7.966909, 112.615475
+AL, Jalan Jombang 3A, -7.966622, 112.615528
+AL, Jalan Jombang No.20, -7.966320, 112.615614
+AL, Jalan Jombang No.7, -7.965958, 112.615770
+AL, Jalan Jombang No.7, -7.965661, 112.615936
+AL, Jalan Jombang No.1, -7.965358, 112.616108
+AL, Jalan Jombang No.1, -7.965060, 112.616306
+	Jalan Surabaya
+AL, Jalan Surabaya No.17, -7.965039, 112.616408
+AL, Jalan Surabaya No.17, -7.965230, 112.616741
+AL, Jalan Surabaya No.5, -7.965475, 112.617095
+AL, Jalan Surabaya No.5, -7.965634, 112.617352
+AL, Jalan Surabaya No.6, -7.965804, 112.617722
+AL, Jalan Surabaya No.3, -7.965980, 112.617996
+AL, Jalan Surabaya No.2A, -7.966203, 112.618430
+AL, Jalan Surabaya No.3A, -7.966378, 112.618715
+AL, Jalan Surabaya No.3A, -7.966697, 112.619337
+	JAlan Jakarta
+AL, Jalan Jakarta, -7.966564, 112.619439
+AL, Jalan Jakarta, -7.965990, 112.619761
+AL, Jalan Jakarta No.46, -7.965544, 112.619975
+AL, Jalan Jakarta No.46, -7.964917, 112.620378
+AL, Jalan Jakarta No.46, -7.964375, 112.620694
+AL, Jalan Jakarta No.46, -7.964099, 112.620919
+AL, Jalan Jakarta No.38, -7.963796, 112.621316
+AL, Jalan Jakarta No.38, -7.963499, 112.621751
+	Jalan Bogor
+AL, Jalan Bogor No.2, -7.963461, 112.621783
+AL, Jalan Bogor No.2, -7.963084, 112.621542
+AL, Jalan Bogor No.4, -7.962765, 112.621418
+AL, Jalan Bogor No.2A, -7.962388, 112.621236
+AL, Jalan Bogor No.11, -7.962069, 112.621182
+AL, Jalan Bogor No.17, -7.961437, 112.621080
+AL, Jalan Bogor No.22, -7.960986, 112.621118
+AL, Jalan Bogor No.22, -7.960566, 112.621247
+AL, Jalan Bogor No.22, -7.960082, 112.621536
+	JAlan Veteran
+AL, Jalan Veteran Malang, -7.959822, 112.621295
+AL, Jalan Veteran Malang, -7.959456, 112.620871
+AL, Jalan Veteran Malang, -7.959073, 112.620437
+AL, Jalan Veteran Malang, -7.958728, 112.619986
+AL, Jalan Veteran Malang, -7.958345, 112.619450
+AL, Jalan Veteran Malang, -7.958117, 112.619037
+AL, Jalan Veteran Malang, -7.957878, 112.618613
+AL, Jalan Veteran Malang, -7.957596, 112.618108
+AL, Jalan Veteran Malang, -7.957299, 112.617620
+AL, Jalan Veteran Malang, -7.956959, 112.617068
+AL, Universitas Brawijaya Malang, Jalan Veteran Malang No.16, -7.956719, 112.616703
+AL, Universitas Brawijaya Malang, Jalan Veteran Malang No.16, -7.956379, 112.616134
+AL, Universitas Brawijaya Malang, Jalan Veteran Malang No.16, -7.956156, 112.615721
+AL, Universitas Brawijaya Malang, Jalan Veteran Malang No.16, -7.956119, 112.614783
+AL, Universitas Brawijaya Malang, Jalan Veteran Malang No.16, -7.956294, 112.614015
+AL, Jalan Veteran Malang, -7.956454, 112.613345
+	Jalan Raya Sumbersari
+AL, Ampera M3, Jalan Bendungan Sigura-Gura Barat, -7.956612, 112.612714
+AL, Jalan Raya Sumbersari No.292, -7.956091, 112.612178
+AL, Distro Pro_g Sport, Jalan Raya Sumbersari No.292 A, -7.955730, 112.611877
+AL, Original Parfum Import, Jalan Raya Sumbersari, -7.955358, 112.611491
+AL, Comp Access, Jalan Raya Sumbersari, -7.954795, 112.610976
+AL, Jalan Raya Sumbersari No.82-290, -7.954136, 112.610499
+AL, Jalan Raya Sumbersari No.82, -7.953733, 112.610343
+AL, Toko Kmputer, Jalan Raya Sumbersari, -7.953398, 112.610161
+AL, Jalan Raya Sumbersari No.89, -7.953132, 112.609951
+AL, Jalan Raya Sumbersari No.2, -7.952829, 112.609726
+AL, Jalan Raya Sumbersari No.2, -7.952484, 112.609474
+AL, Jalan Raya Sumbersari No.2, -7.952027, 112.609158
+AL, Jalan Raya Sumbersari No.2, -7.951629, 112.609007
+AL, Jalan Gajayana No.36, -7.951020, 112.608902
+AL, Jalan Gajayana No.36, -7.950638, 112.608892
+AL, Jalan Gajayana No.36, -7.950032, 112.608865
+AL, Jalan Gajayana No.36, -7.949580, 112.608849
+AL, Jalan Gajayana No.14 C, -7.949060, 112.608838
+Al, Jalan Gajayana No.14 C, -7.948624, 112.608795
+AL, Jalan Gajayana No.14 C, -7.948103, 112.608747
+AL, Jalan Gajayana No.14 C, -7.947551, 112.608774
+AL, Jalan Gajayana No.14 C, -7.946998, 112.608843
+AL, Laundry Exprest, -7.946504, 112.609063
+AL, Kedai Pernak Pernik, Jalan Kerto Rahayu No.2, -7.946223, 112.609165
+AL, Jalan Gajayana, -7.945580, 112.609396
+AL, Jalan Gajayana, -7.945102, 112.609567
+AL, Jalan Gajayana, -7.944565, 112.609707
+AL, Jalan Gajayana, -7.944182, 112.609825
+AL, Jalan Gajayana, -7.943704, 112.610023
+AL, Jalan Gajayana, -7.943316, 112.610174
+AL, Jalan Gajayana, -7.943152, 112.610259
+AL, 3 Putra Paket Kilat, Jalan M.T. Haryono, -7.943008, 112.610168
+AL, Jalan M.T. Haryono No.115, -7.942844, 112.610066
+AL, Jalan M.T. Haryono No.115, -7.942494, 112.609839
+AL, Jalan M.T. Haryono No.108, -7.942112, 112.609523
+AL, Jalan M.T. Haryono No.22, -7.941825, 112.609287
+AL, Jalan M.T. Haryono No.934, -7.941315, 112.608970
+AL, Jalan M.T. Haryono No.934, -7.940943, 112.608697
+AL, Jalan M.T. Haryono No.140A, -7.940597, 112.608444
+AL, Toko Mebel Mila, Jalan M.T. Haryono No.152, -7.940358, 112.608273
+AL, Apotik Dinoyo Farma, Jalan M.T. Haryono No.153A, -7.940045, 112.608101
+AL, 212 Cell, Jalan M.T. Haryono, -7.939806, 112.607940
+AL, Optik Ijen, Jalan M.T. Haryono, -7.939428, 112.607667
+AL, Pesona Kosmetik Dan Alat Kacantikan, Jalan M.T. Haryono, -7.939115, 112.607441
+AL, Rm. Padang Goyang Lidah, Jalan M.T. Haryono, -7.938759, 112.607168
+AL, Jalan M.T. Haryono No.178, -7.938557, 112.607071
+AL, Warung Dinoyo, -7.938276, 112.606840
+AL, Jalan M.T. Haryono No.187, -7.938031, 112.606674
+AL, Jalan M.T. Haryono No.187, -7.937638, 112.606433
+AL, Jalan M.T. Haryono No.187, -7.937319, 112.606197
+AL, Jalan M.T. Haryono No.187, -7.937006, 112.605987
+AL, Jalan M.T. Haryono No.204, -7.936586, 112.605703
+AL, Jalan M.T. Haryono, -7.936113, 112.605387
+AL, Jalan Tlogomas No.19, -7.935853, 112.605199
+AL, Jalan Tlogomas No.6, -7.934778, 112.604481
+AL, Servise Barang Elektronik, Jalan Tlogomas, -7.933981, 112.603913
+AL, Jalan Tlogomas No.11, -7.933365, 112.603462
+AL, Jalan Tlogomas No.27, -7.932813, 112.603119
+AL, Jalan Raya Tlogomas I, -7.932228, 112.602733
+AL, Masjid Jami' Shirothol Mustaqim, Jalan Tlogomas No.49, -7.931548, 112.602561
+AL, Toko Asri, Jalan Tlogomas, -7.930836, 112.602647
+AL, Depot Air Mineral Asri, Jalan Tlogomas, -7.930655, 112.602711
+AL, Jalan Tlogomas No.48 A, -7.930124, 112.602765
+AL, Caprina, Jalan Tlogomas, -7.929412, 112.602872
+AL, Toko Roti Dan Donat Fadhilah, Jalan Tlogomas No.6, -7.928902, 112.602915
+AL, Yl Salon, Jalan Tlogomas, -7.928328, 112.602915
+AL, Jalan Tlogomas No.106, -7.927839, 112.602786
+AL, Jalan Tlogomas No.1a, -7.927361, 112.602615
+AL, Jalan Tlogomas, -7.926798, 112.602046
+AL, Jalan Tlogomas No.123, -7.926362, 112.601574
+AL, Jalan Tlogomas No.107, -7.925916, 112.601102
+AL, Jalan Tlogomas No.107, -7.925587, 112.600748
+AL, Jalan Tlogomas No.107, -7.925151, 112.600329
+AL, Jalan Tlogomas No.55, -7.924896, 112.600018
+AL, Air Isi Ulang, Jalan Tlogomas, -7.924513, 112.599417
+AL, Jalan Tlogomas No.62, -7.924184, 112.598988
+AL, Jalan Tlogomas No.83, -7.924397, 112.598859
+AL, Terminal Landungsari, Jalan Tlogomas, -7.924652, 112.598623
+AL, Terminal Landungsari, -7.9252923,112.5958226
