@@ -1,0 +1,450 @@
+MT, SUB Terminal Mulyorejo, -7.988649,112.5994157
+MT, Jalan Raya Mulyorejo No.95, -7.989834, 112.599748
+MT, Jalan Raya Mulyorejo No.95, -7.989834, 112.599748
+MT, Toko Ac, Jalan Raya Mulyorejo, -7.989281, 112.599180
+MT, Nikolas Futsal, Jalan Raya Mulyorejo, -7.988973, 112.598890
+MT, Jalan Raya Mulyorejo No.95, -7.988537, 112.598515
+MT, Jalan Raya Mulyorejo No.95, -7.988240, 112.598257
+MT, Jalan Raya Mulyorejo No.11, -7.987730, 112.597957
+MT, Masjid, Jalan Raya Mulyorejo, -7.987199, 112.598203
+MT, Jalan Raya Mulyorejo No.85 A, -7.986795, 112.598354
+MT, Jalan Raya Mulyorejo No.55, -7.986306, 112.598568
+MT, Jalan Raya Mulyorejo No.9, -7.985860, 112.598826
+MT, Jalan Raya Mulyorejo No.24, -7.986083, 112.599781
+MT, Magdalena Salon Dan Tudio Foto, Jalan Raya Mulyorejo No.1, -7.986327, 112.600371
+MT, Balai Rw. 1 Kelurahan Mulyorejo, -7.986561, 112.600768
+MT, Toko Laris, Jalan Raya Mulyorejo, -7.986540, 112.600993
+MT, Jalan Raya Bandulan, -7.986168, 112.601132
+MT, Jalan Raya Tebo Utara No.3, -7.985573, 112.601454
+MT, Toko Jati Murni, Jalan Raya Tebo Utara, -7.985392, 112.601669
+MT, La Mode, Jalan Raya Tebo Utara, -7.984904, 112.601926
+MT, Balai Pengobatan, Jalan Raya Tebo Utara, -7.984383, 112.602109
+MT, Jalan Raya Tebo Utara No.30, -7.983990, 112.602248
+MT, Jalan Raya Tebo Utara No.195, -7.983767, 112.602409
+MT, Jalan Raya Bandulan No.187, -7.982949, 112.602752
+MT, Salon Anita, Jalan Raya Tebo Utara, -7.982364, 112.602924
+MT, Jalan Raya Bandulan No.158-168, -7.982263, 112.603646
+MT, Jalan Raya Bandulan No.152, -7.982338, 112.604043
+MT, Jalan Raya Bandulan No.142, -7.982444, 112.604343
+MT, Jalan Raya Bandulan No.130, -7.982593, 112.604966
+MT, Jalan Raya Bandulan No.111, -7.982879, 112.605996
+MT, Tambal Ban 88 (LA Shop), Jalan Bandulan, -7.983028, 112.606736
+MT, Jalan Raya Bandulan No.80, -7.983092, 112.607079
+MT, Jalan Raya Bandulan, -7.983358, 112.607895
+MT, Rumah Makan, Jalan Raya Bandulan, -7.983432, 112.608141
+MT, Jalan Raya Bandulan No.46, -7.983506, 112.608592
+MT, Jalan Raya Bandulan No.35, -7.983559, 112.609086
+MT, Jalan Raya Bandulan No.16, -7.983613, 112.610180
+MT, Jalan Raya Bandulan No.6, -7.983687, 112.610877
+MT, Jalan Raya Bandulan No.6, -7.983963, 112.611564
+MT, Wina Advertising, Jalan Jupri, -7.984027, 112.611907
+MT, Jalan Jupri No.39B, -7.983921, 112.612465
+MT, Jalan Jupri No.635, -7.983846, 112.612819
+MT, Jalan Jupri No.628, -7.983666, 112.613506
+MT, Jalan Ikhwan Ridwan Rais No.569, -7.983467, 112.614487
+MT, Ksp Arta Jaya Makmur, -7.983329, 112.615291
+MT, Toko Jamu Jalan Ikhwan Ridwan Rais, -7.983297, 112.615914
+MT, Ys Tailor, -7.983319, 112.616482
+MT, Jalan Ikhwan Ridwan Rais No.103, -7.983372, 112.617083
+MT, Jalan Ikhwan Ridwan Rais No.101, -7.983404, 112.617716
+MT, Jalan Ikhwan Ridwan Rais No.263, -7.983521, 112.618306
+MT, Sate Madura Jalan Ikhwan Ridwan Rais, -7.983552, 112.618971
+MT, Jalan Ikhwan Ridwan Rais No.117, -7.983563, 112.619465
+MT, Jalan Ikhwan Ridwan Rais No.89, -7.983574, 112.620044
+MT, Bengkel Mobil Dan Motor, -7.983489, 112.620581
+MT, Jalan Bareng Raya II, -7.983319, 112.621235
+MT, Jalan Ikhwan Ridwan Rais No.301, -7.983191, 112.621943
+MT, Jalan Ikhwan Ridwan Rais No.21, -7.983212, 112.622544
+MT, Jalan Ikhwan Ridwan Rais No.1, -7.983351, 112.623081
+MT, Taman Kanak - Kanak Al -Quran (TKA/TKQ) Sunan Kali Jaga, -7.983446, 112.623649
+MT, Jalan Brigjend. Katamso No.40, -7.983510, 112.624164
+MT, Q Laundry, -7.983680, 112.624894
+MT, Jalan Brigjend. Katamso No.10, -7.983924, 112.625602
+MT, Jalan Brigjend. Katamso No.4, -7.984062, 112.625977
+MT, Pt. Banju Biru, -7.984105, 112.626503
+MT, Sakti Travel, Jalan Ade Irma Suryani, -7.984275, 112.627125
+MT, MAS Mu'allimat, -7.984434, 112.627833
+MT, Jalan Ade Irma Suryani No.1, -7.984562, 112.628284
+MT, Mandarin Interion, -7.984647, 112.628874
+MT, Pt. Asuransi Ramayana, Jalan Ade Irma Suryani, -7.984849, 112.629614
+MT, Jalan Ade Irma Suryani No.5, -7.985008, 112.630237
+MT, Rm. Ampera Bu Ismail, Jalan Ade Irma Suryani No.3, -7.985104, 112.630623
+MT, Jalan Ade Irma Suryani No.5, -7.985187, 112.630903
+MT, Jalan Sutan Syahrir No.4, -7.985379, 112.630860
+MT, Jalan Sutan Syahrir No.8, -7.985687, 112.630796
+MT, Jalan Sutan Syahrir, -7.985214,112.6294868
+MT, Jalan Sutan Syahrir No.28-109, -7.986739, 112.630581
+MT, Jalan Sutan Syahrir No.29, -7.987121, 112.630442
+MT, Jalan Sutan Syahrir No.61, -7.987387, 112.630442
+MT, Aloha, Jalan Kyai Tamin, -7.987525, 112.630731
+MT, Jalan Kyai Tamin No.26, -7.987706, 112.631118
+MT, Toko Margo Mulyo, Jalan Kyai Tamin, -7.987865, 112.631525
+MT, Jalan Kyai Tamin No.49, -7.988014, 112.631933
+MT, Jalan Kyai Tamin No.541, -7.988205, 112.632362
+MT, Jalan Kyai Tamin No.62, -7.988364, 112.632705
+MT, Ud Surya Agung, Jalan Kyai Tamin No.67, -7.988534, 112.633124
+MT, Toko Langgeng, Jalan Kyai Tamin No.77, -7.988683, 112.633564
+MT, Toko Pari Jaya, Jalan Kyai Tamin No.99, -7.988874, 112.633993
+MT, Toko Boom Motorist, Jalan Kyai Tamin, -7.989129, 112.634540
+MT, Jalan Laks. Martadinata, -7.989257, 112.634798
+MT, Jalan Laksamana Martadinata No.56, -7.989193, 112.634926
+MT, Niaga Surya Elektronik, -7.988864, 112.635012
+MT, Ud. National, -7.988300, 112.635227
+MT, Baiturrochim, -7.987876, 112.635409
+MT, Jalan R.E. Martadinata No.26, -7.987302, 112.635602
+MT, Jalan Gatot Subroto No.108, -7.986941, 112.635752
+MT, Taman Pendidikan Al-Qur'an (TPQ) Mamba'ul Aula, -7.986441, 112.635903
+MT, Jalan Gatot Subroto No.96, -7.986239, 112.635988
+MT, Gardu Telkom Jalan Gatot Subroto, -7.985740, 112.636171
+MT, Jalan Gatot Subroto No.66, -7.985315, 112.636342
+MT, Kota Sari Motor, -7.984932, 112.636450
+MT, Jalan Gatot Subroto No.50, -7.984582, 112.636557
+MT, Jalan Gatot Subroto No.38, -7.984093, 112.636729
+MT, Taman Pendidikan Al-Qur'an (TPQ) Sunan Giri, -7.983583, 112.636868
+MT, Jalan Gatot Subroto No.4, -7.983179, 112.637008
+MT, Jalan Ir. Haji Juanda No.1A, -7.983094, 112.637104
+MT, SMP Kristen Aletheia, -7.983349, 112.637287
+MT, Jalan Ir. Haji Juanda No.1A, -7.983679, 112.637566
+MT, Jalan Ir. Haji Juanda No.1-6, -7.983976, 112.637866
+MT, Auther, Jalan Juanda No.7, -7.984295, 112.638220
+MT, Jalan Ir. Haji Juanda No.22, -7.984677, 112.638649
+MT, Jalan Ir. Haji Juanda No.22, -7.984986, 112.639014
+MT, Jalan Ir. Haji Juanda No.32, -7.985357, 112.639465
+MT, Jalan Ir. Haji Juanda No.32, -7.985719, 112.639733
+MT, Jalan Ir. Haji Juanda No.32, -7.986250, 112.639572
+MT, Gereja Anugerah, -7.9887414,112.63557 
+MT, Jalan Ir. Haji Juanda No.6 A, -7.987142, 112.639293
+MT, Masjid Roisiyah, Jalan Ir. Haji Juanda, -7.987961, 112.639089
+MT, Jalan Ir. Haji Juanda No.6 A, -7.988247, 112.639014
+MT, Jalan Ir. Haji Juanda No.6 A, -7.988694, 112.638864
+MT, Jalan Muharto No.53, -7.988885, 112.638842
+MT, Jalan Muharto No.53, -7.989119, 112.639089
+MT, Jalan Muharto No.364, -7.989544, 112.639507
+MT, Jalan Muharto No.45, -7.989990, 112.640022
+MT, Jalan Muharto No.8, -7.990255, 112.640269
+MT, Jalan Muharto No.16, -7.990564, 112.640666
+MT, Jalan Muharto No.57, -7.990755, 112.641095
+MT, Jalan Muharto No.59 C, -7.991052, 112.641567
+MT, Jalan Muharto 7A, -7.991382, 112.642050
+MT, Jalan Muharto No.6, -7.991605, 112.642383
+MT, Jalan Muharto No.6, -7.991849, 112.642758
+MT, Jalan Muharto No.51, -7.992030, 112.643155
+MT, Jalan Muharto No.39, -7.992274, 112.643595
+MT, Jalan Muharto No.41, -7.992572, 112.644196
+MT, Jalan Muharto No.41, -7.992795, 112.644657
+MT, Taman Pendidikan Al-Qur'an (TPA/TPQ) Roudlotul Muftadi'in, -7.992933, 112.645033
+MT, Jalan Muharto Timur No.47, -7.993113, 112.645505
+MT, Jalan Muharto Timur No.10, -7.993315, 112.645977
+MT, Jalan Muharto Timur No.10, -7.993560, 112.646513
+MT, Jalan Muharto Timur No.20, -7.993698, 112.646953
+MT, Jalan Muharto No.36, -7.993783, 112.647275
+MT, Jalan Muharto Timur No.22, -7.993910, 112.647694
+MT, Jalan Ki Ageng Gribig No.31, -7.993868, 112.647812
+MT, Pasar Kedungkandang, Jalan Mayor Jendral Sungkono No.7, -7.994261, 112.647533
+MT, Jalan Mayor Jendral Sungkono No.7, -7.994760, 112.647125
+MT, Pasar Kedungkandang, Jalan Mayor Jendral Sungkono No.7, -7.995260, 112.646825
+MT, Pasar Kedungkandang, Jalan Mayor Jendral Sungkono No.7, -7.996014, 112.646750
+MT, Jalan Mayor Jendral Sungkono No.40, -7.996694, 112.646471
+MT, Jalan Mayjen Sungkono IV, -7.997661, 112.646106
+MT, Jalan Mayor Jendral Sungkono No.87, -7.998182, 112.645870
+MT, Warung Tahu Campur, -7.999021, 112.645602
+MT, Warung Biru Mbah Lo, -7.999499, 112.645484
+MT, Toko Sri, -8.000200, 112.645226
+MT, Toko Besi, -8.000785, 112.644990
+MT, Jalan Mayor Jendral Sungkono No.108, -8.001443, 112.644797
+MT, Jalan Mayor Jendral Sungkono No.26, -8.002081, 112.644636
+MT, Jalan Mayjen Sungkono IV, -8.002655, 112.644411
+MT, Tambal Ban, -8.003154, 112.644293
+MT, Jalan Mayjen Sungkono IV, -8.003664, 112.644111
+MT, Sany Cell, -8.003983, 112.644035
+MT, Jalan Mayor Jendral Sungkono No.4, -8.005162, 112.643907
+MT, Jalan Mayor Jendral Sungkono No.2, -8.005969, 112.643864
+MT, Jalan Mayor Jendral Sungkono No.36, -8.006756, 112.643810
+MT, Jalan Mayor Jendral Sungkono No.56, -8.007499, 112.643778
+MT, Jalan Mayor Jendral Sungkono No.54, -8.008158, 112.643735
+MT, Jalan Mayor Jendral Sungkono No.54, -8.008827, 112.643692
+MT, Jalan Mayor Jendral Sungkono No.54, -8.009550, 112.643671
+MT, Jalan Mayor Jendral Sungkono No.54, -8.010155, 112.643628
+MT, Jalan Mayor Jendral Sungkono No.54, -8.010888, 112.643574
+MT, Jalan Mayor Jendral Sungkono No.54, -8.011505, 112.643542
+MT, Jalan Mayor Jendral Sungkono No.54, -8.012610, 112.643521
+MT, Jalan Mayor Jendral Sungkono No.54, -8.013268, 112.643499
+MT, Mts. Miftahul Ulum Wonokoyo, Jalan Kali Anyar, -8.014623, 112.646417
+MT, Jalan Wonokoyo, -8.015941, 112.650408
+MT, Jalan Wonokoyo, -8.016153, 112.651074
+MT, Jalan Wonokoyo, -8.016323, 112.651696
+MT, Jalan Wonokoyo, -8.016727, 112.652511
+MT, Jalan Wonokoyo, -8.017024, 112.653648
+MT, Jalan Wonokoyo, -8.017024, 112.654314
+MT, Jalan Wonokoyo, -8.017109, 112.655108
+MT, Jalan Wonokoyo, -8.017301, 112.655966
+MT, Jalan Wonokoyo, -8.017428, 112.656502
+MT, Jalan Wonokoyo, -8.017704, 112.656996
+MT, Jalan Wonokoyo, -8.017980, 112.657854
+MT, Jalan Wonokoyo, -8.018257, 112.658691
+MT, Jalan Wonokoyo, -8.018767, 112.659807
+MT, Jalan Wonokoyo, -8.019107, 112.660837
+MT, Jalan Wonokoyo, -8.019319, 112.661674
+MT, Wonokoyo, -8.019447, 112.663090
+MT, Wonokoyo, -8.019808, 112.663991
+MT, Wonokoyo, -8.020275, 112.664935
+MT, Wonokoyo, -8.020700, 112.666201
+MT, Wonokoyo, -8.021253, 112.667017
+MT, Wonokoyo, -8.022145, 112.666652
+MT, Wonokoyo, -8.022846, 112.666545
+MT, Jalan Baran, -8.023059, 112.667381
+MT, Jalan Baran, -8.023377, 112.668519
+MT, Jalan Baran, -8.023717, 112.669484
+MT, Jalan Baran, -8.024312, 112.670085
+MT, Jalan Baran, -8.025063, 112.669838
+MT, Jalan Baran, -8.025891, 112.669666
+MT, Jalan Baran, -8.026231, 112.670224
+MT, Jalan Baran, -8.026486, 112.670589
+MT, Jalan Baran, -8.026996, 112.670374
+MT, Jalan Baran, -8.027357, 112.670975
+MT, Jalan Baran, -8.027570, 112.671898
+MT, Jalan Baran, -8.027952, 112.672584
+MT, Tlogowaru, -8.028632, 112.672584
+MT, Tlogowaru, -8.029482, 112.672263
+MT, Tlogowaru, -8.029588, 112.671511
+MT, Tlogowaru, -8.030545, 112.670868
+MT, Unnamed Rd, -8.032499, 112.669087
+MT, Unnamed Rd, -8.033243, 112.667477
+MT, Unnamed Rd, -8.033009, 112.666297
+MT, Tlogowaru, -8.034645, 112.665482
+MT, Musholla Al-hidayah, Jalan Nurul Muttaqin, -8.036048, 112.665031
+MT, Tlogowaru, -8.037237, 112.664559
+MT, Tlogowaru, -8.038682, 112.664152
+MT, Jalan Raya Tlogowaru No.54, -8.039766, 112.663679
+MT, Warung Buah-Buahan, Jalan Raya Sumbersuko, -8.040133, 112.663816
+MT, Shielly Collection, -8.040537, 112.664889
+MT, Jalan Raya Sumbersuko, -8.040983, 112.665275
+MT, Jalan Raya Sumbersuko, -8.041748, 112.664932
+MT, Jalan Raya Sumbersuko, -8.042810, 112.664524
+MT, Jalan Raya Sumbersuko, -8.043766, 112.664224
+MT, MTSS Al Istiqomah, Sumbersuko, -8.044276, 112.663709
+MT, Sumbersuko, -8.043830, 112.662550
+MT, Sumbersuko, -8.043362, 112.661327
+MT, Sumbersuko, -8.042810, 112.660211
+MT, Tlogowaru, -8.042534, 112.658923
+MT, Tlogowaru, -8.042066, 112.657593
+MT, Jalan Tajinan No.204, -8.041578, 112.655362
+MT, Jalan Tajinan No.204, -8.041365, 112.654117
+MT, Musholla Wakaf Sabiilulmuhtadin, -8.041302, 112.653409
+MT, Jalan N Barong, -8.040898, 112.653066
+MT, Jalan N Barong, -8.040154, 112.653302
+MT, Jalan N Barong, -8.039559, 112.653194
+MT, Terminal Tlogowaru, -8.0446479,112.659653
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

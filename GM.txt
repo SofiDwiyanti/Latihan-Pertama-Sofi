@@ -1,0 +1,492 @@
+GM, Terminal Gadang, -8.0217572,112.6269437
+GM, Jalan Kolonel Sugiono No.7, -8.022312, 112.627630
+GM, Jalan Kolonel Sugiono No.7, -8.022036, 112.627673
+GM, Jalan Kolonel Sugiono No.7, -8.021744, 112.627711
+GM, Jalan Kolonel Sugiono No.7, -8.021415, 112.627748
+GM, Jalan Kolonel Sugiono No.7, -8.021080, 112.627807
+GM, Jalan Kolonel Sugiono No.7, -8.020745, 112.627845
+GM, Jalan Kolonel Sugiono No.7, -8.020448, 112.627904
+GM, Jalan Kolonel Sugiono No.7, -8.020113, 112.627952
+GM, Taman Pendidikan Al-Qur'an (TPA/TPQ) Al Falah, Jalan Kolonel Sugiono No.234, -8.019715, 112.627979
+GM, Jalan Kolonel Sugiono No.262, -8.019332, 112.628033
+GM, Jalan Kolonel Sugiono No.262, -8.019024, 112.628097
+GM, Jalan Kolonel Sugiono No.40, -8.018727, 112.628145
+GM, Jalan Kolonel Sugiono No.40, -8.018312, 112.628220
+GM, Jalan Kolonel Sugiono No.262, -8.018052, 112.628236
+GM, Jalan Kolonel Sugiono No.511, -8.017267, 112.628284
+GM, Jalan Raya Gadang No.21, -8.016555, 112.628391
+GM, Jalan Raya Gadang No.467, -8.015801, 112.628509
+GM, Jalan Raya Gadang No.467, -8.015153, 112.628595
+GM, Jalan Raya Gadang No.234, -8.014080, 112.628799
+GM, Jalan Raya Gadang No.433, -8.013421, 112.628842
+GM, Jalan Raya Gadang No.421, -8.012805, 112.628928
+GM, Jalan Kolonel Sugiono No.224, -8.012231, 112.629024
+GM, Jalan Kolonel Sugiono No.216, -8.011594, 112.629185
+GM, Bengkel Las Teter, Jalan Raya Gadang, -8.010924, 112.629260
+GM, Jalan Raya Gadang No.375, -8.010446, 112.629346
+GM, Jalan Kolonel Sugiono No.206, -8.009788, 112.629453
+GM, Jalan Raya Gadang No.321, -8.009193, 112.629550
+GM, Jalan Raya Gadang No.321, -8.008619, 112.629636
+GM, Jalan Raya Gadang No.311, -8.008024, 112.629700
+GM, Jalan Raya Gadang No.297, -8.007270, 112.629797
+GM, Jalan Kolonel Sugiono No.277, -8.006653, 112.629872
+GM, Jalan Raya Gadang No.277, -8.005899, 112.630033
+GM, Jalan Raya Gadang No.277, -8.005294, 112.630097
+GM, Jalan Kolonel Sugiono No.229, -8.004720, 112.630194
+GM, Jalan Kolonel Sugiono No.229, -8.004295, 112.630290
+GM, Jalan Raya Gadang, -8.003711, 112.630419
+GM, Jaya Pratama Motor, Jalan Kolonel Sugiono No.164 A, -8.002903, 112.630676
+GM, Jalan Kolonel Sugiono No.90, -8.002223, 112.630923
+GM, Jalan Kolonel Sugiono No.195, -8.001607, 112.631202
+GM, Jalan Kolonel Sugiono No.193, -8.000938, 112.631427
+GM, Jalan Kolonel Sugiono No.146, -8.000247, 112.631621
+GM, Jalan Kolonel Sugiono No.44, -7.999663, 112.631910
+GM, Jalan Kolonel Sugiono No.125, -7.998961, 112.632189
+GM, Jalan Kolonel Sugiono No.54, -7.998324, 112.632329
+GM, Jalan Kolonel Sugiono No.54, -7.997835, 112.632490
+GM, Jalan Kolonel Sugiono No.82, -7.997410, 112.632543
+GM, Apotek Horison, Jalan Kolonel Sugiono No.75, -7.996709, 112.632747
+GM, CV. H. Rais & Son's, Jalan Kolonel Sugiono No.22, -7.996454, 112.632790
+GM, Toko Sembako, Jalan Sartono S.h, -7.996018, 112.632844
+GM, Warung Mbak Tin, Jalan Sartono S.h, -7.995214, 112.633038
+GM, Warung Arimbi, Jalan Sartono S.h, -7.994757, 112.633134
+GM, Jalan Sartono S.h, -7.994289, 112.633263
+GM, Jalan Sartono S.h No.52, -7.993450, 112.633252
+GM, Jalan Sartono S.h No.15, -7.993323, 112.632931
+GM, Gereja Bethel Tabernakel, Jalan Sartono S.h No.2, -7.993131, 112.632287
+GM, Asia Motor, Jalan Sartono S.h, -7.992961, 112.631675
+GM, Jalan Peltu Sujono No.2B, -7.993014, 112.631332
+GM, Jalan Peltu Sujono No.2B, -7.993408, 112.631160
+GM, Jalan Peltu Sujono No.5, -7.993917, 112.630914
+GM, Jalan Peltu Sujono No.8, -7.994725, 112.630517
+GM, Jalan Peltu Sujono No.8, -7.995235, 112.630334
+GM, Gardu Telkom, Jalan Peltu Sujono, -7.995713, 112.630141
+GM, Depot Anda, Jalan Peltu Sujono, -7.996191, 112.629894
+GM, Pt. Usaha Loka, -7.996552, 112.629723
+GM, Jalan Susanto No.14, -7.996648, 112.629487
+GM, Jalan Susanto No.14, -7.996425, 112.629047
+GM, Jalan Susanto No.14, -7.996293, 112.628685
+GM, Jalan Susanto No.14, -7.996197, 112.628395
+GM, Jalan Susanto No.14, -7.996065, 112.628116
+GM, Jalan Susanto No.14, -7.995921, 112.627869
+GM, Jalan Susanto No.14, -7.995852, 112.627558
+GM, Jalan Susanto, -7.995693, 112.627306
+GM, Jalan Susanto, -7.995560, 112.627049
+GM, Jalan Susanto, -7.995533, 112.626931
+GM, Jalan Halmahera, -7.995401, 112.626904
+GM, Jalan Halmahera, -7.995188, 112.626990
+GM, Jalan Halmahera, -7.994891, 112.627113
+GM, Jalan Halmahera No.74, -7.994604, 112.627253
+GM, Jalan Halmahera No.74, -7.994301, 112.627413
+GM, Jalan Halmahera No.74, -7.994099, 112.627494
+GM, Jalan Halmahera No.74, -7.993881, 112.627601
+GM, Jalan Halmahera No.74, -7.993600, 112.627735
+GM, Jalan Halmahera, -7.993318, 112.627869
+GM, Jalan Halmahera, -7.993053, 112.628009
+GM, Jalan Halmahera, -7.992776, 112.628111
+GM, Jalan Halmahera, -7.992490, 112.628250
+GM, Jalan Halmahera, -7.992219, 112.628368
+GM, Jalan Halmahera, -7.991895, 112.628513
+GM, Jalan Halmahera, -7.991528, 112.628653
+GM, Jalan Halmahera, -7.991358, 112.628738
+GM, Jalan Irian Jaya No.6, -7.991160, 112.628863
+GM, Jalan Tanimbar No.9, -7.991076, 112.628679
+GM, Jalan Tanimbar No.9, -7.990971, 112.628379
+GM, Jalan Tanimbar No.18, -7.990838, 112.628041
+GM, Jalan Tanimbar No.18, -7.990647, 112.627773
+GM, Jalan Tanimbar No.33, -7.990455, 112.627526
+GM, Jalan Tanimbar No.33, -7.990275, 112.627274
+GM, Jalan Tanimbar No.33, -7.990099, 112.627033
+GM, Jalan Tanimbar No.24 A, -7.989892, 112.626780
+GM, Jalan Tanimbar No.24 A, -7.989706, 112.626518
+GM, Jalan Tanimbar No.24 A, -7.989520, 112.626249
+GM, Jalan Tanimbar No.24 A, -7.989340, 112.625987
+GM, Jalan Tanimbar No.24, -7.989207, 112.625799
+GM, Jalan Sulawesi No.4A, -7.989053, 112.625708
+GM, Jalan Sulawesi No.4A, -7.988787, 112.625740
+GM, Jalan Sulawesi No.14, -7.988298, 112.625852
+GM, Masjid RSI Aisyiyah Klojen Jalan Sulawesi, -7.9878801,112.6248548
+GM, Jalan Sulawesi No.14, -7.987607, 112.625992
+GM, Jalan Sulawesi No.14, -7.987357, 112.626067
+GM, Jalan Sulawesi No.14, -7.987087, 112.626142
+GM, Jalan Sulawesi No.14, -7.986737, 112.626266
+GM, Jalan Sulawesi No.4, -7.986248, 112.626470
+GM, Jalan Sulawesi No.4, -7.986062, 112.626534
+GM, Jalan Yulius Usman No.30, -7.986004, 112.626641
+GM, Jalan Yulius Usman No.30, -7.986046, 112.626840
+GM, Jalan Yulius Usman No.30, -7.986120, 112.627049
+GM, Jalan Yulius Usman No.22, -7.986179, 112.627263
+GM, Jalan Yulius Usman No.3, -7.986280, 112.627478
+GM, Jalan Yulius Usman No.3C, -7.986375, 112.627757
+GM, Jalan Yulius Usman No.3C, -7.986482, 112.628138
+GM, Jalan Yulius Usman No.3C, -7.986577, 112.628352
+GM, Jalan Yulius Usman No.3C, -7.986630, 112.628513
+GM, Jalan Syarif Al-Qodri No.30, -7.986561, 112.628567
+GM, Jalan Syarif Al-Qodri No.30, -7.986040, 112.628636
+GM, Jalan Syarif Al-Qodri, -7.985589, 112.628637 
+GM, Jalan Syarif Al-Qodri No.6-22, -7.985196, 112.628712
+GM, Jalan Syarif Al-Qodri No.3, -7.984904, 112.628734
+GM, Jalan Syarif Al-Qodri No.3, -7.984771, 112.628755
+GM, Jalan Ade Irma Suryani No.1, -7.984675, 112.628664
+GM, Jalan Ade Irma Suryani No.1, -7.984596, 112.628380
+GM, Jalan Ade Irma Suryani No.1, -7.984574, 112.628165
+GM, MAS Mu'allimat, -7.984473, 112.627849
+GM, Jalan Ade Irma Suryani No.21, -7.984415, 112.627575
+GM, Jalan Ade Irma Suryani No.21, -7.984341, 112.627248
+GM, Jalan Ade Irma Suryani No.70a, -7.984261, 112.626926
+GM, Jalan Ade Irma Suryani No.31, -7.984213, 112.626615
+GM, Jalan Ade Irma Suryani No.31, -7.984149, 112.626390
+GM, Jalan Brigjend. Katamso No.4, -7.984086, 112.626191
+GM, Jalan Brigjend. Katamso No.4, -7.984022, 112.625960
+GM, Jalan Brigjend. Katamso No.10, -7.983937, 112.625660
+GM, Jalan Brigjend. Katamso No.16, -7.983857, 112.625343
+GM, Jalan Brigjend. Katamso No.5, -7.983762, 112.625097
+GM, Jalan Brigjend. Katamso No.23, -7.983719, 112.624845
+GM, Jalan Brigjend. Katamso No.29, -7.983634, 112.624641
+GM, Jalan Brigjend. Katamso No.40, -7.983565, 112.624319
+GM, Jalan Brigjend. Katamso No.40, -7.983528, 112.624077
+GM, Jalan Brigjend. Katamso No.40, -7.983469, 112.623895
+GM, Jalan Brigjend. Katamso No.45, -7.983411, 112.623444
+GM, Jalan Ikhwan Ridwan Rais No.1, -7.983353, 112.623144
+GM, Jalan Ikhwan Ridwan Rais No.12, -7.983349, 112.623011
+GM, Jalan Ikhwan Ridwan Rais No.12, -7.983301, 112.622695
+GM, Jalan Ikhwan Ridwan Rais No.21, -7.983248, 112.622362
+GM, Jalan Ikhwan Ridwan Rais No.283,-7.983221, 112.622105
+GM, Jalan Ikhwan Ridwan Rais No.301, -7.983243, 112.621799
+GM, Jalan Ikhwan Ridwan Rais No.295, -7.983296, 112.621456
+GM, Jalan Ikhwan Ridwan Rais No.247, -7.983386, 112.621155
+GM, Jalan Ikhwan Ridwan Rais No.249, -7.983471, 112.620769
+GM, Jalan Ikhwan Ridwan Rais No.249, -7.983540, 112.620458
+GM, Jalan Ikhwan Ridwan Rais No.89, -7.983577, 112.620168
+GM, Jalan Ikhwan Ridwan Rais No.89, -7.983593, 112.619938
+GM, Jalan Ikhwan Ridwan Rais No.89, -7.983572, 112.619702
+GM, Jalan Ikhwan Ridwan Rais No.117, -7.983561, 112.619358
+GM, Jalan Ikhwan Ridwan Rais No.223, -7.983588, 112.619079
+GM, Jalan Ikhwan Ridwan Rais No.263, -7.983524, 112.618725
+GM, Jalan Ikhwan Ridwan Rais No.263, -7.983513, 112.618285
+GM, Jalan Ikhwan Ridwan Rais No.263, -7.983476, 112.617964
+GM, Jalan Ikhwan Ridwan Rais No.101, -7.983434, 112.617540
+GM, Jalan Ikhwan Ridwan Rais No.103, -7.983423, 112.617143
+GM, Jalan Ikhwan Ridwan Rais No.119, -7.983398, 112.616786
+GM, Jalan Ikhwan Ridwan Rais No.119, -7.983366, 112.616384
+GM, Jalan Ikhwan Ridwan Rais No.119, -7.983355, 112.616030
+GM, Jalan Ikhwan Ridwan Rais No.119, -7.983334, 112.615649
+GM, Jalan Ikhwan Ridwan Rais No.119, -7.983345, 112.615343
+GM, Jalan Ikhwan Ridwan Rais No.569, -7.983424, 112.614925
+GM, Jalan Ikhwan Ridwan Rais No.569, -7.983456, 112.614646
+GM, Jalan Ikhwan Ridwan Rais No.569, -7.983504, 112.614361
+GM, Jalan Jupri No.628, -7.983573, 112.614082
+GM, Jalan Jupri No.628, -7.983626, 112.613814
+GM, Jalan Jupri No.628, -7.983695, 112.613514
+GM, Jalan Jupri No.631A, -7.983775, 112.613240
+GM, Jalan Jupri No.635,-7.983839, 112.612875
+GM, Jalan Jupri No.39B, -7.983892, 112.612607
+GM, Jalan Jupri No.757, -7.983940, 112.612307
+GM, Jalan Raya Bandulan No.6, -7.984019, 112.612060
+GM, Jalan Raya Bandulan No.6, -7.984147, 112.611781
+GM, Jalan Raya Bandulan No.6, -7.984014, 112.611577
+GM, Jalan Raya Bandulan No.6, -7.983754, 112.611058
+GM, Masjid Shirotul Mustaqim, Jalan Raya Bandulan, -7.983690, 112.610698
+GM, Jalan Raya Bandulan No.12-16, -7.983680, 112.610344
+GM, Jalan Raya Bandulan No.25b, -7.983621, 112.609851
+GM, Jalan Raya Bandulan No.31, -7.983595, 112.609534
+GM, Jalan Raya Bandulan No.35, -7.983579, 112.609105
+GM, Jalan Raya Bandulan No.46, -7.983552, 112.608783
+GM, Jalan Raya Bandulan No.46, -7.983494, 112.608338
+GM, Jalan Raya Bandulan No.71, -7.983419, 112.608053
+GM, Jalan Raya Bandulan No.73-75, -7.983350, 112.607780
+GM, Jalan Raya Bandulan No.68, -7.983233, 112.607469
+GM, Jalan Raya Bandulan No.83, -7.983138, 112.607040
+GM, Tambal Ban 88 (LA Shop), Jalan Bandulan, -7.983032, 112.606648
+GM, Fortuna Elektronik, Jalan Raya Bandulan, -7.982936, 112.606283
+GM, Jalan Raya Bandulan No.111, -7.982878, 112.605972
+GM, Jalan Raya Bandulan No.119, -7.982793, 112.605672
+GM, Jalan Raya Bandulan No.130, -7.982697, 112.605291
+GM, Jalan Raya Bandulan No.130, -7.982601, 112.604990
+GM, Jalan Raya Bandulan No.140, -7.982511, 112.604599
+GM, Jalan Raya Bandulan No.144, -7.982431, 112.604239
+GM, Jalan Raya Bandulan No.152, -7.982346, 112.603928
+GM, Jalan Raya Bandulan No.158-168, -7.982235, 112.603531
+GM, Jalan Raya Bandulan No.170, -7.982134, 112.603274
+GM, Jalan Raya Bandulan No.134, -7.982065, 112.603048
+GM, Jalan Raya Tebo Utara No.192, -7.982289, 112.602981
+GM, Jalan Raya Tebo Utara No.192, -7.982544, 112.602852
+GM, Jalan Raya Bandulan No.187, -7.982847, 112.602729
+GM, Jalan Raya Bandulan No.181, -7.983166, 112.602600
+GM, Jalan Raya Bandulan No.202, -7.983469, 112.602482
+GM, Jalan Raya Tebo Utara No.195, -7.983723, 112.602377
+GM, Jalan Raya Tebo Utara No.30, -7.983978, 112.602275
+GM, Jalan Raya Tebo Utara No.30, -7.984089, 112.602232
+GM, Jalan Raya Tebo Utara No.14, -7.984445, 112.602088
+GM, Jalan Raya Tebo Utara No.14, -7.984711, 112.601959
+GM, Jalan Raya Tebo Utara No.14, -7.984982, 112.601846
+GM, Jalan Raya Tebo Utara No.8, -7.985300, 112.601744
+GM, Jalan Raya Bandulan No.9, -7.985492, 112.601583
+GM, Jalan Raya Bandulan No.9, -7.985651, 112.601353
+GM, Jalan Raya Bandulan No.9, -7.985858, 112.601229
+GM, Jalan Raya Bandulan, -7.986145, 112.601170
+GM, Jalan Raya Tebo Utara No.1, -7.986352, 112.601074
+GM, Jalan Raya Tebo Utara No.1, -7.986480, 112.601025
+GM, Jalan Raya Mulyorejo No.1, -7.986597, 112.600940
+GM, Jalan Raya Mulyorejo No.4, -7.986512, 112.600709
+GM, Jalan Raya Mulyorejo No.8, -7.986285, 112.600237
+GM, Jalan Raya Mulyorejo No.30, -7.986120, 112.599894
+GM, Jalan Raya Mulyorejo No.9, -7.985913, 112.599492
+GM, Jalan Raya Mulyorejo No.9, -7.985806, 112.599116
+GM, Jalan Raya Mulyorejo No.9, -7.985902, 112.598821
+GM, Jalan Raya Mulyorejo No.55, -7.986099, 112.598660
+GM, Jalan Raya Mulyorejo No.55, -7.986300, 112.598569
+GM, Jalan Raya Mulyorejo No.55, -7.986582, 112.598456
+GM, Jalan Raya Mulyorejo No.85 A, -7.986922, 112.598317
+GM, Jalan Raya Mulyorejo No.11, -7.987193, 112.598210
+GM, Jalan Raya Mulyorejo No.11, -7.987453, 112.598086
+GM, Jalan Raya Mulyorejo No.11, -7.987666, 112.597984
+GM, Jalan Raya Mulyorejo No.21, -7.987820, 112.597995
+GM, Jalan Raya Mulyorejo No.21, -7.987974, 112.598081
+GM, Jalan Raya Mulyorejo No.95, -7.988181, 112.598242
+GM, Jalan Raya Mulyorejo No.95, -7.988383, 112.598371
+GM, Jalan Raya Mulyorejo No.95, -7.988611, 112.598580
+GM, Jalan Raya Mulyorejo No.95, -7.988850, 112.598800
+GM, Jalan Raya Mulyorejo No.95, -7.989100, 112.599063
+GM, Jalan Raya Mulyorejo No.95, -7.989158, 112.599116
+GM, Jalan Raya Mulyorejo No.95, -7.989334, 112.599309
+GM, Jalan Raya Mulyorejo No.95, -7.989467, 112.599443
+GM, Jalan Raya Mulyorejo No.95, -7.989631, 112.599556
+GM, Jalan Raya Mulyorejo No.95, -7.989738, 112.599443
+GM, Jalan Raya Mulyorejo No.95, -7.989934, 112.599293
+GM, Jalan Raya Mulyorejo No.95, -7.990078, 112.599401
+GM, Jalan Raya Mulyorejo No.95, -7.990200, 112.599508
+GM, SUB Terminal Mulyorejo, -7.9897349,112.5996956
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

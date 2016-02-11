@@ -172,120 +172,184 @@ GML, Jalan Tambora, -7.969812, 112.611125
 GML, Jalan Tambora, -7.969477, 112.611222
 GML, Jalan Tambora, -7.969185, 112.611324
 GML, Jalan Tambora, -7.968776, 112.611334
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+GML, Jalan Tambora, -7.968236, 112.611375
+GML, Jalan Soputan, -7.968060, 112.611412
+GML, Jalan Soputan, -7.967997, 112.611117
+GML, Jalan Soputan, -7.967906, 112.610838
+GML, Jalan Lompobatang, -7.967768, 112.610511
+GML, Jalan Lompobatang, -7.967497, 112.610565
+GML, Jalan Lompobatang, -7.967157, 112.610699
+GML, Jalan Lompobatang, -7.966823, 112.610833
+GML,Jalan Lompobatang, -7.966541, 112.610919
+GML, Jalan Tidar No.19, -7.966473, 112.610865
+GML, Jalan Tidar No.28, -7.966319, 112.610404
+GML, Jalan Tidar No.30, -7.966261, 112.610012
+GML, Jalan Tidar No.32, -7.966181, 112.609610
+GML, Jalan Tidar No.32, -7.966091, 112.609138
+GML, Jalan Tidar No.32, -7.966016, 112.608811
+GML, Jalan Tidar No.32, -7.965953, 112.608441
+GML, Jalan Tidar No.50d, -7.965845, 112.607877
+GML, Jalan Tidar No.50d, -7.965781, 112.607534
+GML, Jalan Tidar No.50d, -7.965781, 112.607378
+GML, Jalan Candi 3F, -7.965611, 112.607303
+GML, Jalan Candi 3F, -7.965340, 112.607239
+GML, Jalan Candi 3F, -7.964926, 112.607191
+GML, Jalan Candi 3F, -7.964457, 112.607306
+GML, Jalan Candi 3F, -7.964202, 112.607360
+GML, Jalan Candi 3E No.141, -7.964069, 112.607386
+GML, Jalan Candi 3E No.141, -7.963979, 112.607177
+GML, Jalan Candi 3E No.328, -7.963743, 112.606636
+GML, Jalan Candi 3E, -7.963605, 112.606368
+GML, Jalan Candi 3E, -7.963520, 112.606303
+GML, Jalan Candi 3E, -7.963222, 112.606405
+GML, Jalan Candi 3E, -7.963091, 112.606445
+GML, Jalan Candi 3E, -7.962804, 112.606563
+GML, Jalan Candi 3D, -7.962597, 112.606638
+GML, Jalan Candi 3D, -7.962390, 112.606697
+GML, Jalan Candi 3D, -7.962167, 112.606735
+GML, Jalan Candi 3D, -7.962188, 112.606976
+GML, Jalan Candi 3D, -7.962225, 112.607073
+GML, Jalan Candi 3D, -7.962273, 112.607250
+GML, Jalan Candi 3C, -7.962124, 112.607320
+GML, Jalan Candi 3C, -7.961720, 112.607293
+GML, Jalan Candi 3C, -7.961433, 112.607261
+GML, Jalan Terusan Sigura-Gura, -7.961279, 112.607164
+GML, Jalan Terusan Sigura-Gura, -7.960998, 112.607186
+GML, Jalan Terusan Sigura-Gura, -7.960647, 112.607271
+GML, Jalan Terusan Sigura-Gura, -7.960632, 112.607280
+GML, Jalan Terusan Sigura-Gura, -7.960366, 112.607322
+GML, Jalan Terusan Sigura-Gura No.1B, -7.960090, 112.607392
+GML, Jalan Terusan Sigura-Gura No.1B, -7.959946, 112.607355
+GML, Jalan Terusan Sigura-Gura No.1B, -7.959644, 112.607355
+GML, Jalan Terusan Sigura-Gura No.1B, -7.959250, 112.607408
+GML, Jalan Terusan Sigura-Gura No.1, -7.958948, 112.607446
+GML, Jalan Terusan Sigura-Gura No.5, -7.958554, 112.607500
+GML, Jalan Terusan Sigura-Gura No.5, -7.958183, 112.607564
+GML, Jalan Terusan Sigura-Gura No.5, -7.957795, 112.607644
+GML, Jalan Terusan Sigura-Gura, -7.957673, 112.607671
+GML, Jalan Bendungan Sigura-Gura Barat No.13, -7.957598, 112.607408
+GML, Jalan Bendungan Sigura-Gura Barat No.13, -7.957577, 112.607226
+GML, Ayam Pakuan Sigura-gura 44, -7.9585199,112.606609
+GML, Jalan Bendungan Sigura-Gura Barat No.38, -7.957524, 112.606593
+GML, Jalan Bendungan Sigura-Gura Barat No.38, -7.957460, 112.606255
+GML, Jalan Bendungan Sigura-Gura Barat No.21, -7.957301, 112.605976
+GML, Jalan Bendungan Sigura-Gura Barat No.21, -7.957109, 112.605772
+GML, Jalan Bendungan Sigura-Gura Barat No.21, -7.956796, 112.605633
+GML, Jalan Bendungan Sigura-Gura Barat No.21, -7.956408, 112.605676
+GML, Jalan Bendungan Sigura-Gura Barat No.22, -7.956169, 112.605767
+GML, Jalan Bendungan Siguragura Barat III, -7.955898, 112.605896
+GML, Jalan Bendungan Sigura-Gura Barat No.22, -7.955595, 112.606035
+GML, Jalan Bendungan Sigura-Gura Barat No.22, -7.955330, 112.606185
+GML, Jalan Bendungan Sigura-Gura Barat No.41, -7.955000, 112.606314
+GML, Jalan Bendungan Sigura-Gura Barat No.41, -7.954687, 112.606464
+GML, Jalan Bendungan Sigura-Gura Barat No.41, -7.954336, 112.606663
+GML, Jalan Bendungan Sigura-Gura Barat No.41, -7.954124, 112.606759
+GML, Jalan Sunan Kalijaga No.76, -7.953906, 112.606818
+GML, Jalan Sunan Kalijaga No.76, -7.953598, 112.606883
+GML, Jalan Sunan Kalijaga No.76, -7.953300, 112.606877
+GML, Jalan Sunan Kalijaga No.76, -7.952971, 112.606797
+GML, Jalan Sunan Kalijaga No.76, -7.952641, 112.606748
+GML, Jalan Sunan Kalijaga No.76, -7.952253, 112.606689
+GML, Jalan Sunan Kalijaga No.76, -7.951924, 112.606636
+GML, Jalan Sunan Kalijaga No.76, -7.951515, 112.606561
+GML, Jalan Sunan Kalijaga No.76, -7.951117, 112.606480
+GML, Jalan Sunan Kalijaga No.76, -7.950761, 112.606411
+GML, Jalan Sunan Kalijaga No.76, -7.950398, 112.606333
+GML, Jalan Sunan Kalijaga No.11, -7.950106, 112.606279
+GML, Jalan Sunan Kalijaga No.11, -7.949574, 112.606172
+GML, Jalan Sunan Kalijaga No.11, -7.949293, 112.606097
+GML, Jalan Sunan Kalijaga No.11, -7.948964, 112.606038
+GML, Jalan Sunan Kalijaga No.11, -7.948645, 112.605968
+GML, Jalan Sunan Kalijaga No.10, -7.948331, 112.605877
+GML, Jalan Sunan Kalijaga No.15, -7.948034, 112.605839
+GML, Jalan Sunan Kalijaga No.14, -7.947747, 112.605769
+GML, Jalan Sunan Kalijaga No.14, -7.947481, 112.605614
+GML, Jalan Mertojoyo Selatan No.22, -7.947380, 112.605453
+GML, Jalan Mertojoyo Selatan No.15, -7.947184, 112.605083
+GML, Jalan Mertojoyo Selatan No.12, -7.947056, 112.604809
+GML, Jalan Mertojoyo Selatan No.9-18, -7.946849, 112.604471
+GML, Jalan Mertojoyo Selatan No.9, -7.946737, 112.604208
+GML, Jalan Mertojoyo Selatan No.9, -7.946408, 112.603956
+GML, Jalan Mertojoyo No.E-108, -7.946095, 112.603865
+GML, Jalan Mertojoyo No.E-108, -7.945664, 112.603817
+GML, Jalan Mertojoyo No.E-108, -7.945298, 112.603801
+GML, Jalan Mertojoyo No.1, -7.944798, 112.603833
+GML, Jalan Mertojoyo No.1, -7.944533, 112.603849
+GML, C-Computer, Jalan Mertojoyo Selatan, -7.944113, 112.603849
+GML, Tahu Crispy, Jalan Mertojoyo Selatan, -7.943916, 112.603865
+GML, Jalan Mertojoyo No.1, -7.943635, 112.603844
+GML, Thitan Service, Jalan Mertojoyo Selatan, -7.943348, 112.603881
+GML, Toko Mainan, Jalan Mertojoyo Selatan, -7.943008, 112.603897
+GML, Jalan Mertojoyo Selatan No.1a, -7.942678, 112.603935
+GML, Jalan Mertojoyo Selatan No.1a, -7.942450, 112.603935
+GML, Jalan Mertojoyo Selatan No.1a, -7.942168, 112.603929
+GML, Jalan Mertojoyo Selatan No.1a, -7.941850, 112.603935
+GML, Pos Kamling, Jalan Mertojoyo Selatan, -7.941589, 112.603956
+GML, Jalan Mertojoyo Selatan No.1a, -7.941308, 112.603978
+GML, Bengkel Mobil, Jalan Mertojoyo Selatan, -7.940999, 112.604010
+GML, Gading Cell, Jalan Mertojoyo Selatan, -7.940755, 112.604053
+GML, Jalan Mertojoyo Selatan No.1a, -7.940277, 112.604230
+GML, Soto Ayam Jl. Mertojoyo Selatan, -7.9391797,112.6051526
+GML, Grosir Komputer, Jalan Mertojoyo Selatan, -7.939676, 112.604804
+GML, Jalan Mertojoyo Selatan No.314, -7.939528, 112.604981
+GML, Jalan Mertojoyo Selatan No.314, -7.939400, 112.605174
+GML, Jalan Mertojoyo Selatan No.314, -7.939220, 112.605394
+GML, Jalan Mertojoyo Selatan No.314, -7.939076, 112.605587
+GML, Jalan Mertojoyo Selatan, -7.938911, 112.605855
+GML, Koneksi Komputer, Jalan Mertojoyo Selatan, -7.938799, 112.606132
+GML, Jack Spesial Vermak, Jalan Mertojoyo Selatan, -7.938644, 112.606411
+GML, Delta Print, Jalan Mertojoyo Selatan, -7.938517, 112.606630
+GML, Jalan Mertojoyo Selatan No.167, -7.938384, 112.606861
+GML, Jalan M.T. Haryono No.187, -7.938278, 112.606883
+GML, Jalan M.T. Haryono No.187, -7.937895, 112.606633
+GML, Jalan M.T. Haryono No.187, -7.937672, 112.606472
+GML, Jalan M.T. Haryono No.187-200, -7.937374, 112.606279
+GML, Jalan M.T. Haryono No.200-204, -7.937050, 112.606043
+GML, Jalan M.T. Haryono No.204, -7.936742, 112.605844
+GML, Jalan M.T. Haryono No.204, -7.936444, 112.605635
+GML, Jalan M.T. Haryono, -7.936168, 112.605463
+GML, Surya Media Cell, Jalan M.T. Haryono, -7.935993, 112.605324
+GML, Jalan Tlogomas No.19, -7.935849, 112.605227
+GML, Jalan Tlogomas No.19, -7.935430, 112.604938
+GML, PAFFEE COFFEE Jl. Tlogomas, -7.9358522,112.6043639
+GML, Jalan Tlogomas No.6, -7.934973, 112.604627
+GML, Jalan Tlogomas No.6, -7.934686, 112.604434
+GML, Jalan Tlogomas No.6, -7.934675, 112.604423
+GML, Jalan Tlogomas No.6-11, -7.934351, 112.604208
+GML, Jalan Tlogomas No.11-22, -7.934059, 112.603994
+GML, Jalan Tlogomas No.22, -7.933544, 112.603634
+GML, Jalan Tlogomas No.22, -7.933315, 112.603463
+GML, Jalan Tlogomas No.24, -7.933007, 112.603280
+GML, Jalan Tlogomas No.27, -7.932709, 112.603055
+GML, Jalan Tlogomas No.28, -7.932428, 112.602883
+GML, Jalan Tlogomas No.44, -7.932104, 112.602706
+GML, Jalan Tlogomas No.20, -7.931732, 112.602594
+GML, Jalan Tlogomas No.4, -7.931344, 112.602615
+GML, Jalan Tlogomas No.4, -7.931031, 112.602679
+GML, Jalan Tlogomas No.41, -7.930712, 112.602749
+GML, Jalan Tlogomas No.41, -7.930356, 112.602771
+GML, Jalan Tlogomas No.46, -7.929994, 112.602824
+GML, Jalan Tlogomas No.45 B, -7.929660, 112.602862
+GML, Agenpos Tlogomas, Jalan Tlogomas, -7.929341, 112.602921
+GML, Jalan Tlogomas No.8, -7.928980, 112.602942
+GML, Jalan Tlogomas No.3, -7.928533, 112.602980
+GML, Jalan Tlogomas No.3, -7.928231, 112.602921
+GML, Jalan Tlogomas No.106, -7.927875, 112.602840
+GML,  Jalan Tlogomas No.123, -7.927604, 112.602738
+GML, Jalan Tlogomas No.1a, -7.927418, 112.602696
+GML, Jalan Tlogomas No.1a, -7.927189, 112.602513
+GML, Jalan Tlogomas No.1a, -7.926950, 112.602272
+GML, Jalan Tlogomas No.1, -7.926679, 112.602004
+GML, Jalan Tlogomas No.1, -7.926467, 112.601757
+GML, Jalan Tlogomas No.123, -7.926121, 112.601387
+GML, Jalan Tlogomas No.107, -7.925840, 112.601092
+GML, Jalan Tlogomas No.1, -7.925579, 112.600829
+GML, Jalan Tlogomas No.107, -7.925335, 112.600571
+GML, Jalan Tlogomas No.55, -7.925053, 112.600239
+GML, Jalan Tlogomas No.55, -7.924830, 112.599933
+GML, Jalan Tlogomas No.55-62, -7.924596, 112.599622
+GML, Jalan Tlogomas No.79, -7.924389, 112.599359
+GML, Jalan Tlogomas No.79, -7.924232, 112.599165
+GML, Terminal Landungsari, Jalan Tlogomas, -7.924206, 112.598956
+GML, Terminal Landungsari, Jalan Tlogomas, -7.924700, 112.598591
+GML, Terminal Landungsari, -7.9243784,112.5980974

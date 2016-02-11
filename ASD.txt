@@ -1,0 +1,253 @@
+ASD, Terminal Arjosari, -7.9365354,112.6519501
+ASD, Amanah, Jalan Raden Intan, -7.932891, 112.657787
+ASD, Jalan Raden Intan No.99, -7.932763, 112.657143
+ASD, Jalan Raden Intan, -7.932508, 112.656199
+ASD, Jalan Raden Intan, -7.932827, 112.656921
+ASD, Jalan Raden Intan, -7.932508, 112.655827
+ASD, Jalan Raden Intan, -7.932508, 112.655827
+ASD, Jalan Raden Intan, -7.931615, 112.653982
+ASD, Jalan Raden Intan, -7.931339, 112.653252
+ASD, Jalan Raden Intan No.103, -7.930935, 112.652544
+ASD, Jalan Raden Intan No.103, -7.930616, 112.651578
+ASD, Jalan Raden Intan No.1, -7.930212, 112.650870
+ASD, Jalan Panjisuroso, -7.930574, 112.650505
+ASD, Dpp Partai Pdi Perjuangan, Jalan Panjisuroso No.5, -7.931466, 112.650227
+ASD, Warung Rahayu, -7.932253, 112.649926
+ASD, Jalan Panjisuroso No.20,-7.933252, 112.649797
+ASD, Jalan Panjisuroso No.89, -7.934527, 112.649690
+ASD, Jalan Panjisuroso No.89, -7.935398, 112.649754
+ASD, Jalan Panjisuroso No.20, -7.936206, 112.649669
+ASD, KPP Madya Malang, Jalan Panjisuroso, -7.937141, 112.649797
+ASD, Jalan Panjisuroso No.125, -7.938012, 112.649690
+ASD, Fotocopy Faris, Jalan Panjisuroso, -7.938883, 112.649776
+ASD, Waroeng Nasi Jotos Bu Ita, Jalan R. Panji Suroso No.13, -7.939287, 112.649669
+ASD, Jalan Plaosan Timur, -7.939648, 112.649926
+ASD, Toko 98, Jalan Plaosan Timur, -7.940116, 112.650334
+ASD, Hero Laundry, Jalan Plaosan Timur, -7.940329, 112.650699
+ASD, Toko Rejeki Baru, -7.940690, 112.651106
+ASD, Bengkel Ragil Jaya, Jalan Plaosan Timur, -7.940408, 112.650742
+ASD, Toko Rejeki Baru,-7.940695, 112.651053
+ASD, Kb / TK Al-Amin, -7.940950, 112.651342
+ASD, Jalan Plaosan Timur No.40, -7.941280, 112.651729
+ASD, Jalan Plaosan Timur No.39, -7.941853, 112.652362
+ASD, Jalan Plaosan Timur, -7.942140, 112.652641
+ASD, Jalan Plaosan Timur No.5, -7.942565, 112.652844
+ASD, Jalan Plaosan Timur No.15, -7.942927, 112.652984
+ASD, Jalan Teluk Granjakan, -7.943203, 112.653188
+ASD, Jalan Teluk Grajakan No.51, -7.943500, 112.653445
+ASD, Jalan Teluk Grajakan No.184, -7.943777, 112.653746
+ASD, Jalan Teluk Grajakan No.184, -7.943936, 112.654025
+ASD, Jalan Teluk Grajakan No.184, -7.944127, 112.654346
+ASD, Gardu Listrik, -7.944531, 112.654937
+ASD, Jalan Teluk Grajakan No.167, -7.944733, 112.655291
+ASD, Jalan Teluk Grajakan No.167, -7.944914, 112.655655
+ASD, Jalan Teluk Grajakan No.144, -7.945158, 112.656042
+ASD, Jalan Teluk Grajakan No.144, -7.945371, 112.656321
+ASD, Jalan Teluk Grajakan No.144, -7.945572, 112.656621
+ASD, Kantor Pos, -7.9464703,112.6544644
+ASD, Jalan Teluk Grajakan No.144, -7.945987, 112.657168
+ASD, Jalan Teluk Grajakan No.1, -7.946263, 112.657469
+ASD, Jalan Teluk Grajakan No.1, -7.946550, 112.657833
+ASD, Jalan Teluk Grajakan No.1, -7.946869, 112.658273
+ASD, Jalan Teluk Grajakan No.1, -7.947124, 112.658541
+ASD, Jalan Teluk Grajakan, -7.947358, 112.658853
+ASD, Jalan Teluk Grajakan, -7.947676, 112.659153
+ASD, Jalan Teluk Grajakan, -7.948080, 112.659217
+ASD, Jalan Teluk Grajakan, -7.948516, 112.659164
+ASD, Photo Copy, Jalan Laksda Adi Sucipto, -7.948707, 112.659142
+ASD, Jalan Laksda Adi Sucipto No.346, -7.948537, 112.658777
+ASD, Jalan Laksda Adi Sucipto, -7.948399, 112.658284
+ASD, Sentral Aki, Jalan Laksda Adi Sucipto, -7.948314, 112.657855
+ASD, Jalan Laksda Adi Sucipto No.346, -7.948186, 112.657361
+ASD, Haument, Jalan Laksda Adi Sucipto, -7.947868, 112.656213
+ASD, Yayasan Pendidikan MTs Hasyim Asy'ary, Jalan Laksda Adi Sucipto, -7.947698, 112.655752
+ASD, Bakso Saudara, Jalan Laksda Adi Sucipto,-7.947474, 112.655344
+ASD, Jalan Laksda Adi Sucipto No.275, -7.947230, 112.654937
+ASD, Jalan Laksda Adi Sucipto No.275, -7.946975, 112.654507
+ASD, Jalan Laksda Adi Sucipto No.275, -7.946805, 112.654110
+ASD, Jalan Batubara No.9, -7.946975, 112.654046
+ASD, Jalan Batubara No.9, -7.947343, 112.653957
+ASD, Jalan Batubara No.9, -7.947757, 112.653742
+ASD, WN Furniture, Jalan Terusan Batubara 24, -7.948278, 112.653431
+ASD, Jalan Batubara No.36, -7.948724, 112.653077
+ASD, Jalan Batubara No.36, -7.949266, 112.652744
+ASD, Jalan Batubara No.36, -7.949808, 112.652497
+ASD, Jalan Batubara No.36, -7.950371, 112.652272
+ASD, Masjid Al Muhlisin, -7.950690, 112.652036
+ASD, Jalan Batubara No.88, -7.951126, 112.651811
+ASD, Jalan Batubara No.88, -7.951466, 112.651575
+ASD, Jalan Batubara No.88, -7.952061, 112.651285
+ASD, Jalan Batubara No.88, -7.952581, 112.651049
+ASD, Jalan Batubara No.88, -7.953081, 112.650834
+ASD, Jalan Batubara No.88, -7.953357, 112.650652
+ASD, Jalan Batubara No.99, -7.953293, 112.650083
+ASD, Jalan Batubara No.86, -7.953059, 112.649558
+ASD, Jalan Batubara No.77, -7.952911, 112.649053
+ASD, Jalan Batubara No.77, -7.952709, 112.648732
+ASD, Jalan Batubara No.77, -7.952539, 112.648420
+ASD, Jalan Batubara No.77, -7.952847, 112.647916
+ASD, Jalan Batubara No.17, -7.953336, 112.647680
+ASD, Jalan Tembaga, -7.953538, 112.647691
+ASD, Jalan Tembaga, -7.953644, 112.647991
+ASD, Jalan Tembaga, -7.953803, 112.648313
+ASD, Jalan Tembaga, -7.953920, 112.648667
+ASD, Jalan Tembaga, -7.954090, 112.649000
+ASD, Jalan Tembaga, -7.954218, 112.649300
+ASD, Jalan Simpang Emas I, -7.954409, 112.649783
+ASD, Jalan Simpang Emas I, -7.954494, 112.649955
+ASD, Jalan Simpang Emas I, -7.954515, 112.650009
+ASD, Jalan Emas No.104, -7.954685, 112.649966
+ASD, Jalan Emas No.97, -7.955057, 112.649741
+ASD, Jalan Emas No.85, -7.955716, 112.649494
+ASD, Jalan Emas No.85, -7.956088, 112.649387
+ASD, Jalan Emas No.37, -7.956385, 112.649279
+ASD, Dapur Ibu, Jalan Emas, -7.956895, 112.649129
+ASD, Jalan Emas No.25, -7.957426, 112.649000
+ASD, Jalan Emas No.22, -7.957851, 112.648915
+ASD, Jalan Emas No.22, -7.958319, 112.648786
+ASD, Jalan Emas No.22, -7.958712, 112.648700
+ASD, Jalan Emas No.16, -7.959201, 112.648582
+ASD, Taufik Agency, Jalan Raya Sulfat No.41, -7.959594, 112.648270
+ASD, Masjid Abdillah Jalan Raya Sulfat, -7.959414, 112.647916
+ASD, Toko Seiwijaya Jalan Raya Sulfat, -7.959159, 112.647443
+ASD, Jalan Raya Sulfat No.51, -7.958861, 112.646896
+ASD, Jalan Raya Sulfat No.51, -7.958542, 112.646242
+ASD, Jalan Raya Sulfat No.16, -7.958414, 112.645920
+ASD, Jalan Sanan, -7.958457, 112.645866
+ASD, Jalan Sanan, -7.958861, 112.645845
+ASD, Jalan Sanan, -7.959350, 112.645706
+ASD, Jalan Sanan No.69, -7.959902, 112.645566
+ASD, Jalan Sanan No.69, -7.960051, 112.645588
+ASD, Jalan Sanan No.69, -7.960593, 112.645512
+ASD, Jalan Sanan No.69, -7.961188, 112.645470
+ASD, MI Darussalam, -7.961730, 112.645352
+ASD, Jalan Sanan No.69, -7.962080, 112.645255
+ASD, SDN Purwantoro 5 Jalan Sanan No.75, -7.962059, 112.644922
+ASD, Jarimatika Indonesia, -7.961857, 112.644397
+ASD, Jalan Sanan No.48, -7.961666, 112.643957
+ASD, Jalan Sanan No.42, -7.961400, 112.643399
+ASD, Jalan Sanan No.34, -7.961209, 112.643023
+ASD, Jalan Sanan No.29, -7.960784, 112.643023
+ASD, Jalan Sanan No.30d, -7.960306, 112.642766
+ASD, Jalan Sanan No.24, -7.960200, 112.642433
+ASD, Jalan Raden Tumenggung Suryo No.27, -7.960550, 112.642176
+ASD, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

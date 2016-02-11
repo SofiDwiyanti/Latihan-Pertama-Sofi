@@ -1,0 +1,686 @@
+TST, Terminal Tlogowaru, -8.0392034,112.6504529
+TST, Jalan Tajinan No.204, -8.041292, 112.652346
+TST, Jalan Tajinan No.204, -8.040867, 112.650715
+TST, Jalan Tajinan No.204, -8.040102, 112.648784
+TST, Jalan Tajinan No.204, -8.040060, 112.647282
+TST, Jalan Tajinan No.204, -8.039082, 112.645350
+TST, Jalan Tajinan, -8.038742, 112.643677
+TST, Jalan Tajinan, -8.038360, 112.642733
+TST, Jalan Arjowinangun No.1, -8.037893, 112.641231
+TST, Jalan Arjowinangun No.22, -8.037510, 112.639385
+TST, Studio 5, Jalan Arjowinangun, -8.036958, 112.637540
+TST, Bidan Ny. Remuniati / Nuni, Jalan Arjowinangun, -8.036533, 112.635652
+TST, Jalan Arjowinangun No.56, -8.036023, 112.633892
+TST, Jalan Arjowinangun No.56, -8.035343, 112.633077
+TST, Matahari, Arjowinangun, -8.034408, 112.633248
+TST, Arjowinangun, -8.033643, 112.631961
+TST, Arjowinangun, -8.033176, 112.630845
+TST, Jalan Wonorejo I, -8.032241, 112.630545
+TST, Bengkel Bakri, Bumiayu, -8.030924, 112.631145
+TST, Toko Jajanan, -8.028926, 112.631875
+TST, Asus Cell, Jalan Kyai Parseh Jaya, -8.027609, 112.632175
+TST, Jalan Arjowinangun No.23a, -8.026079, 112.632690
+TST, Jalan Arjowinangun No.20, -8.024847, 112.633162
+TST, Jalan Kyai Parseh Jaya No.66, -8.023359, 112.633763
+TST, Jalan Kyai Parseh Jaya No.83, -8.022085, 112.634493
+TST, RA/BA/TA Muslimat Nu 06, -8.019938, 112.634965
+TST, Toko M'faiz, -8.019067, 112.635008
+TST, Jalan Kyai Parseh Jaya, -8.018982, 112.635180
+TST, Jalan Kyai Parseh Jaya No.71, -8.018557, 112.634965
+TST, Dms (Dimas) Motor, -8.018472, 112.634600
+TST, Moel Jok, -8.018260, 112.634042
+TST, Depot Risan, -8.017920, 112.633978
+TST, Jalan Kyai Parseh Jaya No.71, -8.017474, 112.634128
+TST, Jalan Kyai Parseh Jaya No.71, -8.017049, 112.634235
+TST, Jalan Kyai Parseh Jaya Bumiayu, -8.016581, 112.634386
+TST, Taman Pendidikan Al-Qur'an (TPA/TPQ) Al Islah, -8.014584, 112.635029
+TST, Toko Bima, Jalan Kyai Parseh Jaya, -8.014116, 112.635244
+TST, Jalan Kyai Parseh Jaya, -8.013479, 112.635523
+TST, Gardu Listrik Jalan Kyai Parseh Jaya, -8.012969, 112.635695
+TST, Jalan Kyai Parseh Jaya, -8.012417, 112.635952
+TST, Jalan Kyai Parseh Jaya, -8.011779, 112.636188
+TST, Jalan Kyai Parseh Jaya No.16, -8.011227, 112.636360
+TST, Jalan Manisa No.6, -8.011205, 112.636531
+TST, Jalan Manisa No.6, -8.011354, 112.636961
+TST, Jalan Manisa No.6, -8.011524, 112.637583
+TST, Jalan Manisa No.6, -8.011630, 112.638012
+TST, Jalan Manisa No.6, -8.011822, 112.638656
+TST, Jalan Manisa No.4, -8.012034, 112.639450
+TST, Jalan Manisa No.4, -8.012247, 112.640093
+TST, Jalan Manisa No.4, -8.012523, 112.640801
+TST, Jalan Manisa No.4, -8.012735, 112.641467
+TST, Jalan Manisa No.4, -8.013012, 112.642175
+TST, Jalan Manisa No.4, -8.013160, 112.642776
+TST, Jalan Manisa No.4, -8.013373, 112.643333
+TST, Jalan Mayor Jendral Sungkono No.54, -8.013415, 112.643505
+TST, Jalan Mayor Jendral Sungkono No.54, -8.013085, 112.643540
+TST, Jalan Mayor Jendral Sungkono No.54, -8.012405, 112.643476
+TST, Jalan Mayor Jendral Sungkono No.54, -8.011810, 112.643540
+TST, Jalan Mayor Jendral Sungkono No.54, -8.011066, 112.643561
+TST, Jalan Mayor Jendral Sungkono No.54, -8.010429, 112.643561
+TST, Jalan Mayor Jendral Sungkono No.54, -8.009643, 112.643647
+TST, Jalan Mayor Jendral Sungkono No.54, -8.008474, 112.643669
+TST, Koperasi Unit Desa, Jalan Mayor Jendral Sungkono No.56, -8.007752, 112.643755
+TST, Jalan Mayor Jendral Sungkono No.36, -8.006732, 112.643819
+TST, Bensin Eceran, Jalan Mayor Jendral Sungkono, -8.006179, 112.643840
+TST, Agenpos Toko A.R., -8.0039588,112.6412655
+TST, MTS. Hamid Rusydi, -8.003821, 112.644076
+TST, Jalan Mayjen Sungkono IV, -8.002971, 112.644291
+TST, Aremania Knalpot, Jalan Mayor Jendral Sungkono, -8.002376, 112.644506
+TST, Toko Kue, -8.001717, 112.644720
+TST, Jalan Mayor Jendral Sungkono No.5a, -8.001101, 112.644892
+TST, Jalan Mayjen Sungkono IV, -8.000400, 112.645128
+TST, Warung Biru Mbah Lo, -7.999486, 112.645450
+TST, Warung Bakso Joss, -7.998572, 112.645793
+TST, Jalan Mayjen Sungkono IV, -7.997765, 112.646029
+TST, Jalan Mayjen Sungkono IV, -7.997042, 112.646351
+TST, Jalan Mayor Jendral Sungkono No.40, -7.996362, 112.646651
+TST, Pasar Kedungkandang, Jalan Mayor Jendral Sungkono No.7, -7.995789, 112.646844
+TST, Ahli Bikin Gigi Misnari, -7.994917, 112.647016
+TST, Counter, -7.994195, 112.647531
+TST, Jalan Muharto Raya, -7.993855, 112.647595
+TST, Jalan Muharto Raya, -7.993706, 112.647038
+TST, As Motor Jalan Muharto Raya No.7, -7.993472, 112.646351
+TST, Madrasah Ibtidaiyah Swasta Al Khoirot, -7.993175, 112.645600
+TST, Cuci Motor Blok 12, -7.992877, 112.644870
+TST, Depot Madina Soto Ayam Kampung, Jalan Muharto No.2, -7.992559, 112.644184
+TST, Counter Pulsa, -7.992219, 112.643497
+TST, Jalan Puntodewo No.64, -7.991794, 112.643347
+TST, Jalan Puntodewo No.26, -7.990994, 112.643647
+TST, Masjid Sirotol Mustaqim, -7.990378, 112.643840
+TST, Jalan Puntodewo No.1B, -7.989911, 112.644097
+TST, PT. Lia Central Utama, Jalan Raya Puntodewo No.3, -7.989305, 112.644419
+TST, Jalan Puntodewo No.1 A, -7.988912, 112.644634
+TST, Jm Bengkel Las, Jalan Puntodewo, -7.988678, 112.644730
+TST, Jalan Puntodewo No.29, -7.988423, 112.644838
+TST, Gudang Toko, Jalan Puntodewo, -7.988094, 112.644967
+TST, Jalan Puntodewo No.29, -7.987626, 112.645160
+TST, Jalan Puntodewo No.29, -7.987307, 112.645299
+TST, Kios Jajanan, Jalan Puntodewo, -7.986851, 112.645492
+TST, Jalan Puntodewo No.33, -7.986436, 112.645610
+TST, Bio Therapy, Jalan Puntodewo 9, -7.986043, 112.645771
+TST, Warnet & Game Online, Jalan Puntodewo, -7.985629, 112.645975
+TST, Jalan Puntodewo No.9, -7.985352, 112.646125
+TST, Cak Manto, Jalan Puntodewo, -7.985055, 112.646308
+TST, Service Jok Polehan, Jalan Puntodewo, -7.984736, 112.646469
+TST, TPQ Madin, -7.984460, 112.646640
+TST, Jalan Puntodewo No.6, -7.984024, 112.646866
+TST, Jalan Puntodewo No.12, -7.983674, 112.647069
+TST, Jalan Puntodewo No.12, -7.983323, 112.647262
+TST, Jalan Puntodewo No.12, -7.982994, 112.647402
+TST, Jalan Puntodewo No.12, -7.982654, 112.647541
+TST, Jalan Puntodewo No.12, -7.982303, 112.647724
+TST, Mengkel M&M, Jalan Puntodewo, -7.981953, 112.647906
+TST, Jalan Puntodewo No.12, -7.981506, 112.648110
+TST, Jalan Puntodewo, -7.981060, 112.648346
+TST, Jalan Puntodewo, -7.980699, 112.648496
+TST, Jalan Puntodewo, -7.980401, 112.648647
+TST, Jalan Puntodewo, -7.980051, 112.648807
+TST, Jalan Puntodewo, -7.979700, 112.648990
+TST, Jalan Puntodewo, -7.979339, 112.649172
+TST, Jalan Puntodewo, -7.979105, 112.649269
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.25, -7.979009, 112.649172
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.22, -7.978956, 112.648786
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.22, -7.978893, 112.648389
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.13-22, -7.978850, 112.647938
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.8-13, -7.978818, 112.647520
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.8, -7.978765, 112.647102
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.8, -7.978669, 112.646533
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.1H, -7.978531, 112.645911
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.1H, -7.978393, 112.645449
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.213, -7.978149, 112.645009
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.213, -7.977989, 112.644677
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.209-210, -7.977830, 112.644344
+TST, Jalan Mayor Jenderal Muhammad Wiyono No.209, -7.977639, 112.643947
+TST, Koperasi Tuhu Premati Wredi Jalan Mayor Jenderal Muhammad Wiyono No.1, -7.977479, 112.643625
+TST, Jalan Terusan Kesatrian, -7.977543, 112.643432
+TST, Jalan Terusan Kesatrian, -7.977798, 112.643196
+TST, Jalan Terusan Kesatrian, -7.978074, 112.642960
+TST, Jalan Terusan Kesatrian, -7.978361, 112.642789
+TST, Jalan Terusan Kesatrian, -7.978638, 112.642574
+TST, Jalan Terusan Kesatrian No.40, -7.978967, 112.642349
+TST, Jalan Terusan Kesatrian No.40, -7.979190, 112.642231
+TST, Jalan Terusan Kesatrian No.40, -7.979487, 112.641996
+TST, Jalan Terusan Kesatrian No.40, -7.979785, 112.641781
+TST, Jalan Terusan Kesatrian No.40, -7.980061, 112.641578
+TST, Jalan Terusan Kesatrian No.40, -7.980358, 112.641395
+TST, Jalan Terusan Kesatrian No.E36, -7.980624, 112.641191
+TST, Jalan Terusan Kesatrian No.E36, -7.980911, 112.640987
+TST, Jalan Untung Suropati Utara No.17, -7.981006, 112.640869
+TST, Jalan Untung Suropati Utara No.17, -7.980858, 112.640644
+TST, Jalan Untung Suropati Utara No.4-7, -7.980666, 112.640333
+TST, Jalan Untung Suropati Utara No.4, -7.980475, 112.640086
+TST, Jalan Untung Suropati Utara No.F19, -7.980263, 112.639829
+TST, SD Negeri Kesatrian 2, -7.980103, 112.639550
+TST, Jalan Untung Suropati Utara No.F19, -7.980018, 112.639164
+TST, Jalan Untung Suropati Utara No.F19, -7.979965, 112.638777
+TST, Jalan Untung Suropati Utara No.F19, -7.979880, 112.638413
+TST, Jalan Panglima Sudirman, -7.979816, 112.638209
+TST, Jalan Panglima Sudirman, -7.979604, 112.638230
+TST, Jalan Panglima Sudirman, -7.979062, 112.638380
+TST, Jalan Panglima Sudirman No.30, -7.978573, 112.638487
+TST, Jalan Panglima Sudirman No.30, -7.978031, 112.638563
+TST, Jalan Panglima Sudirman No.30, -7.977564, 112.638606
+TST, Jalan Panglima Sudirman No.30, -7.977107, 112.638606
+TST, Jalan Panglima Sudirman No.30, -7.976459, 112.638573
+TST, Jalan Panglima Sudirman No.30, -7.976066, 112.638573
+TST, LKP Remaja, -7.975450, 112.638563
+TST, Jalan Panglima Sudirman No.23, -7.975014, 112.638573
+TST, Gardu Telkom, Jalan Panglima Sudirman, -7.974419, 112.638552
+TST, Atm Bca, Jalan Panglima Sudirman, -7.973898, 112.638552
+TST, Jalan Panglima Sudirman No.12, -7.973325, 112.638541
+TST, Jalan Panglima Sudirman No.75, -7.972793, 112.638509
+TST, Walikota Batu Jalan Panglima Sudirman, -7.972475, 112.638487
+TST, Jalan Panglima Sudirman No.75, -7.972007, 112.638498
+TST, Jalan Panglima Sudirman No.85, -7.971465, 112.638487
+TST, Polsek Kepanjen, Jalan Panglima Sudirman, -7.971030, 112.638455
+TST, Jalan Panglima Sudirman No.1, -7.970445, 112.638423
+TST, Jalan Panglima Sudirman No.97-98, -7.969901, 112.638391
+TST, Jalan Panglima Sudirman No.98, -7.969497, 112.638391
+TST, Jalan Panglima Sudirman No.98, -7.969072, 112.638348
+TST, Jalan Panglima Sudirman, -7.968604, 112.638316
+TST, Jalan Panglima Sudirman, -7.968158, 112.638294
+TST, Jalan Panglima Sudirman, -7.967797, 112.638284
+TST, Jalan Panglima Sudiraman Utara No.38a, -7.967499, 112.638273
+TST, Jalan Panglima Sudirman, -7.967276, 112.638273
+TST, Jalan Panglima Sudirman, -7.966851, 112.638241
+TST, Jalan Raya Mahakam, -7.966352, 112.638198
+TST, Jalan Raya Mahakam, -7.966182, 112.637930
+TST, Jalan Warung Supratman, -7.966001, 112.637640
+TST, Jalan Warung Supratman, -7.965746, 112.637189
+TST, Jalan Warung Supratman, -7.965491, 112.636707
+TST, Jalan Warung Supratman, -7.965183, 112.636224
+TST, Jalan Warung Supratman, -7.964939, 112.635762
+TST, Jalan Warung Supratman, -7.964737, 112.635419
+TST, Jalan Warung Supratman, -7.964599, 112.635129
+TST, Jalan Letjen Sutoyo No.5, -7.964301, 112.635065
+TST, Jalan Letjen Sutoyo No.9, -7.963929, 112.635247
+TST, Jalan Letjen Sutoyo No.9, -7.963738, 112.635333
+TST, Jalan Letjen Sutoyo No.11, -7.963154, 112.635644
+TST, Jalan Letjen Sutoyo No.28, -7.962729, 112.635870
+TST, Jalan Letjen Sutoyo No.27B, -7.962346, 112.636052
+TST, Jalan Letjen Sutoyo No.27B, -7.961932, 112.636213
+TST, Jalan Sarangan No.11, -7.961772, 112.636095
+TST, Harlind Electric, Jalan Sarangan No.2A, -7.961613, 112.635784
+TST, Jalan Sarangan No.11, -7.961326, 112.635204
+TST, Jalan Sarangan No.18, -7.961050, 112.634818
+TST, Jalan Sarangan No.18, -7.960784, 112.634421
+TST, Jalan Sarangan No.24, -7.960487, 112.633949
+TST, Monumen Program Pokok Pkk, Jalan Sarangan, -7.960306, 112.633606
+TST, Jalan Sarangan No.32, -7.960104, 112.633187
+TST, Jalan Sarangan No.32, -7.959977, 112.632855
+TST, Jalan Sarangan No.27, -7.959902, 112.632630
+TST, Jalan Sarangan Atas No.38, -7.959679, 112.632694
+TST, Jalan Sarangan Atas No.20-23, -7.959190, 112.632919
+TST, Jalan Sarangan Atas No.12, -7.958744, 112.633048
+TST, Jalan Sarangan Atas No.29, -7.958244, 112.633144
+TST, Jalan Sarangan Atas No.29, -7.957841, 112.633316
+TST, Jalan Selorejo A, -7.957373, 112.633509
+TST, Jalan Selorejo A, -7.956948, 112.633681
+TST, Jalan Selorejo A, -7.956565, 112.633895
+TST, Jalan Selorejo A, -7.956438, 112.634153
+TST, Jalan Selorejo A, -7.955960, 112.634239
+TST, Jalan Selorejo A, -7.955503, 112.634442
+TST, Jalan Selorejo A, -7.955110, 112.634582
+TST, Jalan Selorejo No.1, -7.955004, 112.634453
+TST, Jalan Selorejo No.80, -7.954834, 112.634035
+TST, Jalan Selorejo No.83, -7.954717, 112.633509
+TST, Jalan Setaman No.28, -7.954717, 112.633284
+TST, Jalan Mawar No.44, -7.955195, 112.633037
+TST, Jalan Mawar No.39, -7.955673, 112.632801
+TST, Jalan Mawar No.37A, -7.956066, 112.632597
+TST, Jalan Mawar No.34, -7.956470, 112.632361
+TST, Jalan Mawar Gang VII, -7.956959, 112.632050
+TST, Club Bunga Jalan Mawar No.29A, -7.957288, 112.631910
+TST, Jalan Bungur No.3, -7.957511, 112.631664
+TST, Jalan Bungur No.3, -7.957022, 112.631567
+TST, Jalan Bungur No.11, -7.956289, 112.631492
+TST, Jalan Bungur No.15, -7.955726, 112.631471
+TST, Jalan Bungur No.35, -7.954919, 112.631567
+TST, Jalan Bungur No.35, -7.954430, 112.631610
+TST, Jalan Bungur No.55, -7.952974, 112.631750
+TST, Jalan Melati No.1, -7.952485, 112.631750
+TST, Jalan Melati No.1, -7.952071, 112.631707
+TST, Jalan Melati No.1, -7.951826, 112.631728
+TST, Raja Bandeng, Jalan Melati, -7.951305, 112.631610
+TST, Jalan Melati No.65, -7.950955, 112.631642
+TST, Jalan Cengger Ayam No.2, -7.950668, 112.631642
+TST, Jalan Cengger Ayam No.1, -7.950264, 112.631653
+TST, Jalan Cengger Ayam No.6-11, -7.949743, 112.631696
+TST, Jalan Cengger Ayam No.16, -7.949255, 112.631749
+TST, Jalan Cengger Ayam No.15, -7.948734, 112.631814
+TST, Jalan Cengger Ayam No.18A, -7.948075, 112.631910
+TST, Jalan Cengger Ayam No.14, -7.947523, 112.631943
+TST, Jalan Cengger Ayam No.14, -7.947193, 112.632007
+TST, Jalan Cengger Ayam No.31, -7.946789, 112.632028
+TST, Jalan Cengger Ayam No.70, -7.946322, 112.632061
+TST, Jalan Cengger Ayam No.60, -7.945663, 112.632007
+TST, Jalan Cengger Ayam No.69, -7.944632, 112.631878
+TST, Jalan Bukirsari, -7.944409, 112.631835
+TST, Jalan Bukirsari, -7.944090, 112.631181
+TST, Jalan Bukirsari, -7.943846, 112.630891
+TST, Jalan Bukirsari, -7.943559, 112.630441
+TST, Jalan Bukirsari, -7.943304, 112.629979
+TST, Jalan Bukirsari, -7.943081, 112.629604
+TST, Jalan Bukirsari, -7.942858, 112.629099
+TST, Jalan Terusan Kendalsari No.1,  -7.942401, 112.629196
+TST, Jalan Terusan Kendalsari No.24, -7.942125, 112.629249
+TST, Jati Jaya Usaha Dagang Pertukangan, -7.941806, 112.629314
+TST, Jalan Terusan Kendalsari No.28, -7.941615, 112.629410
+TST, Jalan Candi Mendut No.58, -7.941732, 112.629678
+TST, Jalan Candi Mendut No.49-51, -7.941965, 112.630108
+TST, Jalan Candi Mendut No.50, -7.942125, 112.630472
+TST, Jalan Candi Mendut No.39, -7.942369, 112.630944
+TST, Jalan Candi Mendut No.33, -7.942635, 112.631374
+TST, Jalan Candi Mendut No.32, -7.942869, 112.631770
+TST, Jalan Candi Mendut No.27, -7.943060, 112.632189
+TST, Jalan Candi Mendut No.23a, -7.943283, 112.632650
+TST, Jalan Candi Mendut No.12, -7.943496, 112.633133
+TST, Jalan Candi Mendut No.9, -7.943740, 112.633627
+TST, Jalan Candi Mendut No.7, -7.943942, 112.633981
+TST, Jalan Candi Mendut No.3, -7.944154, 112.634270
+TST, Jalan Candi Mendut No.3, -7.944303, 112.634474
+TST, Jalan Candi Bima No.1, -7.944154, 112.634581
+TST, Jalan Candi Bima No.27, -7.943814, 112.634764
+TST, Jalan Terusan Borobudur No.3a, -7.943315, 112.635021
+TST, Jalan Candi Bima No.4C, -7.942730, 112.635343
+TST, Jalan Candi Badut No.1-5, -7.942560, 112.635300
+TST, BIMBEL CHOMIC, Jalan Candi Sari Utara No.15, -7.942316, 112.634785
+TST, Jalan Candi Badut No.41, -7.942029, 112.634281
+TST, Jalan Candi Badut No.44, -7.941689, 112.633766
+TST, Jalan Candi Badut No.52-70, -7.941317, 112.633230
+TST, Jalan Candi Badut No.76, -7.940818, 112.632446
+TST, Jalan Candi Sari Utara, -7.940531, 112.632403
+TST, Jalan Candi Sari Utara, -7.940180, 112.632607
+TST, Jalan Candi Sari Utara, -7.939787, 112.632811
+TST, Jalan Candi Sari Utara, -7.939458, 112.632994
+TST, Jalan Borobudur, -7.939245, 112.632908
+TST, Jalan Borobudur, -7.939118, 112.632994
+TST, Jalan Borobudur, -7.939118, 112.632994
+TST, Jalan Sudimoro No.17, -7.938671, 112.632307
+TST, Jalan Sudimoro No.21, -7.938395, 112.631770
+TST, Jalan Sudimoro No.20, -7.938055, 112.631137
+TST, Jalan Sudimoro No.28, -7.937824, 112.630687
+TST, Jalan Sudimoro No.14, -7.937484, 112.630086
+TST, Jalan Sudimoro No.14, -7.937176, 112.629550
+TST, Jalan Sudimoro No.14, -7.936846, 112.629067
+TST, Jalan Sudimoro No.24, -7.936485, 112.628509
+TST, Jalan Sudimoro No.22, -7.936198, 112.628144
+TST, Jalan Sudimoro No.5, -7.935922, 112.627736
+TST, Jalan Ikan Tombro, -7.935762, 112.627822
+TST, Jalan Ikan Tombro, -7.935444, 112.628101
+TST, Jalan Ikan Tombro,  -7.935104, 112.628412
+TST, Jalan Ikan Tombro, -7.934572, 112.628895
+TST, Jalan Ikan Tombro, -7.933967, 112.629346
+TST, Jalan Ikan Tombro, -7.933531, 112.629646
+TST, Jalan Ikan Tombro, -7.932925, 112.630086
+TST, Jalan Ikan Tombro, -7.932405, 112.630462
+TST, Jalan Ikan Tombro, -7.931863, 112.630826
+TST, Jalan Ikan Tombro, -7.931331, 112.631095
+TST, Jalan Ikan Tombro No.20, -7.930917, 112.631266
+TST, Jalan Ikan Tombro No.20, -7.930428, 112.631384
+TST, Jalan Ikan Tombro No.20, -7.930162, 112.631502
+TST, Jalan Ikan Tombro, -7.929397, 112.631835
+TST, Jalan Ikan Tombro, -7.928834, 112.632082
+TST, Jalan Ikan Tombro No.20, -7.928207, 112.632275
+TST, Jalan Ikan Tombro No.20, -7.927740, 112.632446
+TST, Jalan Ikan Tombro No.20, -7.927389, 112.632629
+TST, Jalan Ikan Tombro No.20, -7.927038, 112.632800
+TST, Jalan Ikan Tombro No.20, -7.926656, 112.633015
+TST, Jalan Ikan Tombro No.20, -7.926178, 112.633090
+TST, Mayor Minor Music Course, -7.925753, 112.633423
+TST, Jalan Ikan Tombro No.25, -7.925508, 112.633745
+TST, Jalan Ikan Tombro No.2-25, -7.925126, 112.634120
+TST, Jalan Ikan Tombro No.22, -7.924754, 112.634571
+TST, Jalan Ikan Tombro No.31, -7.924286, 112.635043
+TST, Jalan Ikan Tombro No.5B, -7.923999, 112.635236
+TST, Jalan Ikan Tombro No.45, -7.923734, 112.635354
+TST, Masjid Miftahul Huda, Jalan Ikan Tombro Barat No.9, -7.923532, 112.635193
+TST, Jalan Ikan Tombro Barat No.8, -7.923309, 112.634775
+TST, Jalan Ikan Tombro Barat No.26, -7.923107, 112.634388
+TST, Jalan Ikan Tombro Barat No.48, -7.922905, 112.633927
+TST, Jalan Ikan Tombro Barat No.61, -7.922682, 112.633412
+TST, Posyandu Anggrek RW.04, Jalan Ikan Tombro Barat, -7.922512, 112.632725
+TST, Jalan Ikan Tombro Barat No.61, -7.922416, 112.632178
+TST, Jalan Simpang Kyai Haji Yusuf, -7.922129, 112.631610
+TST, Jalan Simpang Kyai Haji Yusuf, -7.921916, 112.631138
+TST, Jalan Simpang Kyai Haji Yusuf, -7.921640, 112.630687
+TST, Jalan Simpang Kyai Haji Yusuf, -7.921332, 112.630076
+TST, Jalan Simpang Kyai Haji Yusuf, -7.921130, 112.629421
+TST, Jalan Simpang Kyai Haji Yusuf, -7.920971, 112.628874
+TST, Jalan Simpang Kyai Haji Yusuf, -7.920928, 112.628252
+TST, Jalan Simpang Kyai Haji Yusuf, -7.920928, 112.627683
+TST, Jalan Simpang Kyai Haji Yusuf, -7.920726, 112.627093
+TST, Jalan Kiyai Yusuf, -7.921173, 112.626771
+TST, Jalan Kiyai Yusuf, -7.921683, 112.626557
+TST, Jalan Kiyai Yusuf, -7.922352, 112.626288
+TST, Jalan Kiyai Yusuf, -7.922862, 112.626149
+TST, Jalan Kiyai Yusuf, -7.923447, 112.625945
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
